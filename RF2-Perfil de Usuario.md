@@ -3,7 +3,7 @@
 </p>
 ### **Requisito Funcional 01 - Perfil de Usuario**
 
-_Desarrollo Relativo al proceso de registro y alta en el sistem y a la autenticación de usuarios_
+_Desarrollo Relativo a la intrioducción de datos y generación de un perfil de usuario_
 
 
 
