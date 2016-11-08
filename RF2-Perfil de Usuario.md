@@ -1,9 +1,10 @@
 <p align="left">
 <img src="https://s14.postimg.org/o92ijo4o1/lifemycargithub.png">
 </p>
-### **Requisito Funcional 04 - Cuadro de Busqueda**
+### **Requisito Funcional 01 - Perfil de Usuario**
 
-_Desarrollo Relativo a la busqueda de un vehículo por parte de un usuario del servicio._
+_Desarrollo Relativo al proceso de registro y alta en el sistem y a la autenticación de usuarios_
+
 
 
 
