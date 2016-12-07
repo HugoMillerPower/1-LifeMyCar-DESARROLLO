@@ -14,6 +14,6 @@ _Trabajo de investigación y desarrollo entorno a un sistema web de alquiler de 
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
-|6.0.00    | Instalación de WordPress 4.7| Hugo Miller|7/12/201
+|6.0.01    | WP: Instalación de WordPress 4.7| Hugo Miller|7/12/201
 
 
