@@ -12,6 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
+| 6.0.10    | Importartación de Listable Demo Data. |Hugo Miller|7/12/2016|
 | 6.0.09    | Número de licencia de Akismet. |José Manuel|7/12/2016|
 | 6.0.08    | Número de licencia de Listable. |José Manuel|7/12/2016|
 | 6.0.07    | Actualización de traducciones de Wordpress. |Hugo Miller|7/12/2016|
