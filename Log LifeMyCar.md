@@ -1,9 +1,9 @@
 <p align="left">
 <img src="https://s13.postimg.org/bl787p213/Life_My_Car_Github.png">
 </p>
-### **Requisito Funcional 01 - Registro y Autentificación**
+### **Log LifeMyCar - Control de Cambios**
 
-_Desarrollo Relativo al proceso de registro y alta en el sistem y a la autenticación de usuarios_
+_Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 
 
@@ -12,6 +12,6 @@ _Desarrollo Relativo al proceso de registro y alta en el sistem y a la autentica
 
 | Versión |Cambios y/o evoluciones |
 |:------------- |:---------------|
-| 3.0.00    | Estudio en Trello de los Requisitos de los servicios similares en el mercado. 
+| 6.0.00    | Instalación de Wordpress 4.7. 
 
 
