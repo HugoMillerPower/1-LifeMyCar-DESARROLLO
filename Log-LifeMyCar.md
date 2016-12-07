@@ -12,6 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
+| 6.0.06    | Actualización de plugin Customify. |Hugo Miller|7/12/2016|
 | 6.0.05    | Asistente de instalación de Woocommerce. |Hugo Miller|7/12/2016|
 | 6.0.04    | Borrado de temas no usados. |Hugo Miller|7/12/2016|
 | 6.0.03    | Instalación de Plugins asociados a Listable (Customify, PixTypes, WP Job Manager, Category Icon, Comments Ratings, Login with Ajax, Nav Menu Roles, WooCommerce). |Hugo Miller|7/12/2016|
