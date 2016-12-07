@@ -12,8 +12,8 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
-| 6.0.19    | Plugin: Facet WP - Cache. |Hugo Miller|7/12/2016|
-| 6.0.18    | Plugin: Facet WP. |Hugo Miller|7/12/2016|
+| 6.0.19    | Plugin: Instalación y activación de Facet WP - Cache. |Hugo Miller|7/12/2016|
+| 6.0.18    | Plugin: Instalación y activación de Facet WP. |Hugo Miller|7/12/2016|
 | 6.0.17    | Plugin: Instalación y activación de WP Job Manager Field Editor (Editor de WP trabajo administrador campo. |Hugo Miller|7/12/2016|
 | 6.0.16    | Plugin: Instalación y activación de Custom Post Type UI. |Hugo Miller|7/12/2016|
 | 6.0.15    | Plugin: Instalación y activación de Contact Form 7. |Hugo Miller|7/12/2016|
