@@ -12,7 +12,8 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
-| 6.0.52    | Apariencia: Página Principal: Cambio texto Footer. |Hugo Miller|7/12/2016|
+| 6.0.54    | Apariencia: Mapas: Introducción del FREE Token en el Mapbox. |Hugo Miller|7/12/2016|
+| 6.0.53    | Apariencia: Cambio texto Footer. |Hugo Miller|7/12/2016|
 | 6.0.52    | CSS: Página Principal: Cambio de color en "chosen-drop". |Hugo Miller|7/12/2016|
 | 6.0.51    | CSS: Página Principal: Cambio de color en "Sube foto". |Hugo Miller|7/12/2016|
 | 6.0.50    | CSS: Página Principal: Cambio del color en las Text Areas. |Hugo Miller|7/12/2016|
