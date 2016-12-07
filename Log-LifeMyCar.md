@@ -12,7 +12,10 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
-| 6.0.33    | Plugin: Instalación y activación de WooCommerce Helper. |Hugo Miller|7/12/2016|
+| 6.0.36    | Plugin: Instalación y activación de WP Job Manager - Products. |Hugo Miller|7/12/2016|
+| 6.0.35    | Plugin: Instalación y activación de WP Job Manager - Predefinied Regions. |Hugo Miller|7/12/2016|
+| 6.0.34    | Plugin: Instalación y activación de WP Job Manager - Job Tags. |Hugo Miller|7/12/2016|
+| 6.0.33    | Plugin: Instalación y activación de WP Job Manager - Bookmarks. |Hugo Miller|7/12/2016|
 | 6.0.32    | Plugin: Instalación y activación de WooCommerce Bookings. |Hugo Miller|7/12/2016|
 | 6.0.31    | Plugin: Instalación y activación de Ultimate Member Job Manager. |Hugo Miller|7/12/2016|
 | 6.0.30    | Plugin: Instalación y activación de Ultimate Member - WooCommerce. |Hugo Miller|7/12/2016|
