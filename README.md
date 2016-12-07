@@ -5,15 +5,15 @@
 
 _Trabajo de investigación y desarrollo entorno a un sistema web de alquiler de vehículos entre particulares a través de un sistema de fidelización._
 
-| Título | Entorno | Versión |
-|:------------- |:---------------|:---------------|
+| Título | Entorno | Versión |Autor|Fecha|
+|:------------- |:---------------|:---------------|:---------------|:---------------|
 | LifeMyCar     | Web Services (CMS + PHP + CSS + Java Script) |3.0.00|
 
 
 
 
-| Versión |Cambios y/o evoluciones |
-|:------------- |:---------------|
-|6.0.02    | Instalación de WordPress 4.7| 
+| Versión |Cambios y/o evoluciones |Autor|Fecha|
+|:------------- |:---------------|:---------------|:---------------|
+|6.0.00    | Instalación de WordPress 4.7| 
 
 
