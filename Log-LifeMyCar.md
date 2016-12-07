@@ -12,6 +12,9 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
+| 6.0.57    | Media: Upload iconos de las Tags. |Hugo Miller|7/12/2016|
+| 6.0.56    | Media: Upload iconos de las Marcas. |Hugo Miller|7/12/2016|
+| 6.0.55    | Media: Upload iconos de las Categorías. |Hugo Miller|7/12/2016|
 | 6.0.54    | Apariencia: Mapas: Introducción del FREE Token en el Mapbox. |Hugo Miller|7/12/2016|
 | 6.0.53    | Apariencia: Cambio texto Footer. |Hugo Miller|7/12/2016|
 | 6.0.52    | CSS: Página Principal: Cambio de color en "chosen-drop". |Hugo Miller|7/12/2016|
