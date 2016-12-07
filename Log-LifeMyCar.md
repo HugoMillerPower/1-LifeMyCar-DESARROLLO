@@ -10,8 +10,8 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 
 
-| Versión |Cambios y/o evoluciones |
-|:------------- |:---------------|
-| 6.0.00    | Instalación de Wordpress 4.7. 
+| Versión |Cambios y/o evoluciones |Autor|
+|:------------- |:---------------|:---------------|
+| 6.0.00    | Instalación de Wordpress 4.7. |Hugo Miller|
 
 
