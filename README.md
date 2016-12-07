@@ -7,13 +7,13 @@ _Trabajo de investigación y desarrollo entorno a un sistema web de alquiler de 
 
 | Título | Entorno | Versión |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|:---------------|
-| LifeMyCar     | Web Services (CMS + PHP + CSS + Java Script) |3.0.00|
+| LifeMyCar     | Web Services (CMS + PHP + CSS + Java Script) |6.0.00|Hugo Miller|7/12/2016|
 
 
 
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
-|6.0.00    | Instalación de WordPress 4.7| 
+|6.0.00    | Instalación de WordPress 4.7| Hugo Miller|7/12/201
 
 
