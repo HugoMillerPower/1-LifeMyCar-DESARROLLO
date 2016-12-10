@@ -12,6 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
+| 6.0.68    | Seguridad: Modificación manuel del archivo public_html/.htaccess, según las instrucciones de Google Drive/.../12-Seguridad/.htaacess/Seguridad - Códigos para los .htacces/htaccess-de-root.txt. NOTA: Se ha mutado la instrucción referida a los bloqueos de direcciones IP, ya que en este proyecto se puede llegar a trabajar desde más de 2 IPs simultáneamente.|José Manuel|10/12/2016|
 | 6.0.67    | Seguridad: Cambio del ID de usuario de hugo desde ID=1 a ID=5. |José Manuel|10/12/2016|
 | 6.0.66    | Plugin: Actualización de Facet WP 2.6.5. |José Manuel|10/12/2016|
 | 6.0.65    | Plugin: Actualización de Ultimate Member - Real-time Notifications 1.4.1. |José Manuel|10/12/2016|
