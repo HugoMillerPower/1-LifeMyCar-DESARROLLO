@@ -12,6 +12,10 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
+| 6.0.64    | Plugin: Actualización de WooCommerce 2.6.9. |José Manuel|10/12/2016|
+| 6.0.63    | Plugin: Actualización de Ultimate Member 1.3.78. |José Manuel|10/12/2016|
+| 6.0.62    | Plugin: Actualización de Nav Menu Roles 1.8.6. |José Manuel|10/12/2016|
+| 6.0.61    | Plugin: Actualización de Menu Icons (Iconos de Menú) 0.10.2. |José Manuel|10/12/2016|
 | 6.0.60    | Media: Upload Vídeos de Fondo de la Página Principal. |Hugo Miller|7/12/2016|
 | 6.0.59    | Media: Upload Imágenes de Fondo de la Página Principal. |Hugo Miller|7/12/2016|
 | 6.0.58    | Media: Upload Fondos de las Categorías. |Hugo Miller|7/12/2016|
@@ -52,7 +56,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 | 6.0.23    | Plugin: Instalación y activación de Private Suite 2.1. |Hugo Miller|7/12/2016|
 | 6.0.22    | Plugin: Instalación y activación de Menu Icons (Iconos de Menú) 0.10.1. |Hugo Miller|7/12/2016|
 | 6.0.21    | Plugin: Instalación y activación de IgniteUp 3.2. |Hugo Miller|7/12/2016|
-| 6.0.20    | Plugin: Actualización de WP Job Manager Field Editor (Editor de WP trabajo administrador campo). |José Manuel|7/12/2016|
+| 6.0.20    | Plugin: Actualización de WP Job Manager Field Editor (Editor de WP trabajo administrador campo) 1.6.4. |José Manuel|7/12/2016|
 | 6.0.19    | Plugin: Instalación y activación de Facet WP - Cache 1.3.2. |Hugo Miller|7/12/2016|
 | 6.0.18    | Plugin: Instalación y activación de Facet WP 2.4.5. |Hugo Miller|7/12/2016|
 | 6.0.17    | Plugin: Instalación y activación de WP Job Manager Field Editor (Editor de WP trabajo administrador campo) 1.6.3. |José Manuel|7/12/2016|
