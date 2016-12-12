@@ -12,6 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
+| 6.0.072    | Plugin: Configuración básica de IgniteUp 3.2. |José Manuel|12/12/2016|
 | 6.0.071    | Plugin: Configuración básica de WPML Multilingual CMS 3.5.3.1. |José Manuel|12/12/2016|
 | 6.0.070    | Ajustes: Enlaces permanentes:</br></br>- Ajustes comunes: Nombre de la entrada (marcar) |José Manuel|12/12/2016|
 | 6.0.069    | Ajustes: Generales:</br></br>- Título del sitio: LifeMyCar</br>- Descripción corta: LifeMyCar es una plataforma de CarSharing para vehículos de las marcas Volkswagen, Audi, Seat, Škoda y Opel.</br>- Dirección de WordPress (URL): https://www.lifemycar.com</br>- Dirección del sitio (URL): https://www.lifemycar.com</br>- Dirección de correo electrónico: soporte@lifemycar.com</br>- Miembros: (marcado)</br>- Zona horaria: UTC + 1</br>- Formato de fecha: (4ª opción)</br>- Formato de hora: (3ª opción)</br>- La semana comienza: Lunes</br>- Idioma del sitio: Español |José Manuel|12/12/2016|
