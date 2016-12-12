@@ -12,7 +12,8 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
-| 6.0.68    | Seguridad: Modificación manuel del archivo public_html/.htaccess, según las instrucciones de Google Drive/.../12-Seguridad/.htaacess/Seguridad - Códigos para los .htacces/htaccess-de-root.txt. NOTA: Se ha mutado la instrucción referida a los bloqueos de direcciones IP, ya que en este proyecto se puede llegar a trabajar desde más de 2 IPs simultáneamente.|José Manuel|10/12/2016|
+| 6.0.69    | Ajustes: Generales:</br></br>- Título del sitio: LifeMyCar</br>- Descripción corta: LifeMyCar es una plataforma de CarSharing para vehículos de las marcas Volkswagen, Audi, Seat, Škoda y Opel.</br>- Dirección de WordPress (URL): https://www.lifemycar.com</br>- Dirección del sitio (URL): https://www.lifemycar.com</br>- Dirección de correo electrónico: soporte@lifemycar.com</br>- Miembros: (marcado)</br>- Zona horaria: UTC + 1</br>- Formato de fecha: (4ª opción)</br>- Formato de hora: (3ª opción)</br>- La semana comienza: Lunes</br>- Idioma del sitio: Español. |José Manuel|12/12/2016|
+| 6.0.68    | Seguridad: Modificación manuel del archivo public_html/.htaccess, según las instrucciones de Google Drive/.../12-Seguridad/.htaacess/Seguridad - Códigos para los .htacces/htaccess-de-root.txt.</br></br>NOTA: Se ha mutado la instrucción referida a los bloqueos de direcciones IP, ya que en este proyecto se puede llegar a trabajar desde más de 2 IPs simultáneamente.|José Manuel|10/12/2016|
 | 6.0.67    | Seguridad: Cambio del ID de usuario de hugo desde ID=1 a ID=5. |José Manuel|10/12/2016|
 | 6.0.66    | Plugin: Actualización de Facet WP 2.6.5. |José Manuel|10/12/2016|
 | 6.0.65    | Plugin: Actualización de Ultimate Member - Real-time Notifications 1.4.1. |José Manuel|10/12/2016|
