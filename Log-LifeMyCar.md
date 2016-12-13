@@ -12,6 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
+| 6.0.075    | Listings: Configuración del Editor de campo: Listing:</br></br>- Etiqueta personalizada requiere: Permiten (marcar)</br>- Etiqueta personalizada opcional: Permiten (marcar)</br>- Botón de envío personalizado: Permiten (marcar)</br>- Título del botón enviar: Previsualizar anuncio |José Manuel|13/12/2016|
 | 6.0.074    | Listings: Categories: Borrado en lote de todas las categorías instaladas por defecto + Introducción de las 9 categorías con las que se trabajará: 4x4, Berlina, Clásico, Deportivo, Descapotable, Familiar, Furgoneta, Minibús y Pequeño. |José Manuel|13/12/2016|
 | 6.0.073    | Plugin: Configuración básica de Category Icon 0.6.0:</br></br>- Select Taxonomies: product_tag (marcar) |José Manuel|13/12/2016|
 | 6.0.072    | Plugin: Configuración básica de IgniteUp 3.2. |José Manuel|12/12/2016|
