@@ -12,6 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
+| 6.0.073    | Plugin: Configuración básica de Category Icon 0.6.0:</br></br>- Select Taxonomies: product_tag (marcar) |José Manuel|13/12/2016|
 | 6.0.072    | Plugin: Configuración básica de IgniteUp 3.2. |José Manuel|12/12/2016|
 | 6.0.071    | Plugin: Configuración básica de WPML Multilingual CMS 3.5.3.1. |José Manuel|12/12/2016|
 | 6.0.070    | Ajustes: Enlaces permanentes:</br></br>- Ajustes comunes: Nombre de la entrada (marcar) |José Manuel|12/12/2016|
