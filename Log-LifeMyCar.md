@@ -12,6 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
+| 6.0.078    | Listings: Types: Introducción de los modelos de cada marca de coches::</br></br>- Audi: 61 modelos repartidos en 13 familias</br>- Opel: 31 modelos repartidos en 13 familias</br>- Seat: 15 modelos repartidos en 6 familias</br>- Škoda: 35 modelos repartidos en 11 familias</br>- Volkswagen: 40 modelos repartidos en 19 familias</br>|José Manuel|13/12/2016|
 | 6.0.077    | Listings: Regions:</br>- Introducción de las 5 marcas (regions, en el caso de este theme) con las que se trabajará: Volswagen, Audi, Seat, Škoda y Opel|José Manuel|13/12/2016|
 | 6.0.076    | Listings: Configuración del Editor de campo: FacetWP:</br>- Indexación de direcciones: Sí (marcar)|José Manuel|13/12/2016|
 | 6.0.075    | Listings: Configuración del Editor de campo: Listing:</br></br>- Etiqueta personalizada requiere: Permiten (marcar)</br>- Etiqueta personalizada opcional: Permiten (marcar)</br>- Botón de envío personalizado: Permiten (marcar)</br>- Título del botón enviar: Previsualizar anuncio |José Manuel|13/12/2016|
