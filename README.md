@@ -3,7 +3,7 @@
 </p>
 ### **Log LifeMyCar - Control de Cambios**
 
-_Relativo al proceso de Desarrollo de LifeMyCar.com_
+_Relativo al proceso de desarrollo de LifeMyCar.com_
 
 
 
