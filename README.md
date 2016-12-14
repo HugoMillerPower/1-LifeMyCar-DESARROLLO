@@ -1,7 +1,7 @@
 <p align="left">
 <img src="https://s13.postimg.org/bl787p213/Life_My_Car_Github.png">
 </p>
-### **Log LifeMyCar - Control de Cambios**
+### **LifeMyCar.com - READ ME FIRST**
 
 _Relativo al proceso de desarrollo de LifeMyCar.com_
 
