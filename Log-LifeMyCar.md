@@ -12,7 +12,7 @@ _Relativo al proceso de desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
-| 6.0.082    | Plugin: Instalación, activación y configuración de SeedProd Coming Soon Pro 4.5.0. |José Manuel|14/12/2016|
+| 6.0.082    | Plugin: Instalación, activación y configuración de UpdraftPlus Backup/Restore 1.12.29. |José Manuel|14/12/2016|
 | 6.0.081   | Listing: Tags:</br>- Introducción de los 17 tipos de Equipamiento (Tags, en el caso de este theme) con los que se trabajará: Aire acondicionado, Bluetooth, Cámara Visión Trasera (RVC), Control Distancia Aparcamiento, Control Velocidad, Detector Fatiga, Entrada audio/iPod, Entrada microUSB, GPS Integrado, Lector Tarjetas SD, Manejo por Voz, Manos Libres, Neunmáticos Invierno, Portaequipajes, Reproductor CD, Reproductor DVD y Start and Stop. |José Manuel|14/12/2016|
 | 6.0.080   | Plugin: IgniteUp 3.2: Configuración CSS</br> |Hugo Miller|13/12/2016|
 | 6.0.079    | Plugin: Configuración básica de Hide My WP 5.1.2</br></br>- Start: Import Options: -Select Sheme-: Medium Privacy - More Compatibility (Recommended)</br>- General Settings: Hide Login Page: Hide wp-login.php (marcar)</br>- General Settings: Login Query: pase_usted</br>- General Settings: Admin Login Key: 3791 [ NOTA: Current Login URL: /wp-login.php?pase_usted=3791 ]</br>- General Settings: Hide Admin: (marcar)</br>- General Settings: Spy Notify: (marcar)</br>- General Settings: Email sender name: HideMyWP</br>|Hugo Miller / José Manuel|13/12/2016|
