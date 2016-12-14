@@ -12,6 +12,14 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
+| 6.0.080   | Plugin: IgniteUp 3.2: Configuración CSS</br> |Hugo Miller|13/12/2016|
+| 6.0.079    | Plugin: Configuración básica de Hide My WP 5.1.2</br></br>- Start: Import Options: -Select Sheme-: Medium Privacy - More Compatibility (Recommended)</br>- General Settings: Hide Login Page: Hide wp-login.php (marcar)</br>- General Settings: Login Query: pase_usted</br>- General Settings: Admin Login Key: 3791 [ NOTA: Current Login URL: /wp-login.php?pase_usted=3791 ]</br>- General Settings: Hide Admin: (marcar)</br>- General Settings: Spy Notify: (marcar)</br>- General Settings: Email sender name: HideMyWP</br>|Hugo Miller / José Manuel|13/12/2016|
+| 6.0.078    | Listings: Types: Introducción de los modelos de cada marca de coches:</br></br>- Audi: 61 modelos repartidos en 13 familias</br>- Opel: 31 modelos repartidos en 13 familias</br>- Seat: 15 modelos repartidos en 6 familias</br>- Škoda: 35 modelos repartidos en 11 familias</br>- Volkswagen: 40 modelos repartidos en 19 familias</br>|José Manuel|13/12/2016|
+| 6.0.077    | Listings: Regions:</br>- Introducción de las 5 marcas (regions, en el caso de este theme) con las que se trabajará: Volswagen, Audi, Seat, Škoda y Opel|José Manuel|13/12/2016|
+| 6.0.076    | Listings: Configuración del Editor de campo: FacetWP:</br>- Indexación de direcciones: Sí (marcar)|José Manuel|13/12/2016|
+| 6.0.075    | Listings: Configuración del Editor de campo: Listing:</br></br>- Etiqueta personalizada requiere: Permiten (marcar)</br>- Etiqueta personalizada opcional: Permiten (marcar)</br>- Botón de envío personalizado: Permiten (marcar)</br>- Título del botón enviar: Previsualizar anuncio |José Manuel|13/12/2016|
+| 6.0.074    | Listings: Categories: Borrado en lote de todas las categorías instaladas por defecto + Introducción de las 9 categorías con las que se trabajará: 4x4, Berlina, Clásico, Deportivo, Descapotable, Familiar, Furgoneta, Minibús y Pequeño. |José Manuel|13/12/2016|
+| 6.0.073    | Plugin: Configuración básica de Category Icon 0.6.0:</br>- Select Taxonomies: product_tag (marcar) |José Manuel|13/12/2016|
 | 6.0.072    | Plugin: Configuración básica de IgniteUp 3.2. |José Manuel|12/12/2016|
 | 6.0.071    | Plugin: Configuración básica de WPML Multilingual CMS 3.5.3.1. |José Manuel|12/12/2016|
 | 6.0.070    | Ajustes: Enlaces permanentes:</br></br>- Ajustes comunes: Nombre de la entrada (marcar) |José Manuel|12/12/2016|
