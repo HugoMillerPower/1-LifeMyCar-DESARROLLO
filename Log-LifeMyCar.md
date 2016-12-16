@@ -99,5 +99,5 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 | 6.0.003    | Theme: Instalación de Listable (Padre) e instalación y activación de Listable (Hijo/Child). |Hugo Miller|7/12/2016|
 | 6.0.002    | WP: Creación de usuario Soporte. |Hugo Miller|7/12/2016|
 | 6.0.001    | WP: Instalación de Wordpress 4.7. |Hugo Miller|7/12/2016|
-
+ 
 
