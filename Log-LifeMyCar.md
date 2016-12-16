@@ -12,8 +12,8 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
-| 6.0.088   | Apariencia: Subtexto Página Principal (Bajo el Título)|Hugo Miller|14/12/2016|
-| 6.0.087    | Widgets: Personalización de textos principales y secundarios|Hugo Miller|14/12/2016|
+| 6.0.088   | Apariencia: Subtexto Página Principal (Bajo el Título).|Hugo Miller|14/12/2016|
+| 6.0.087   | Widgets: Personalización de textos principales y secundarios.|Hugo Miller|14/12/2016|
 | 6.0.086    | FacetWP: Instalación preliminar en el Home para maquetación. Pendiente: Definir los "facets de búsqueda" más adecuados. |Hugo Miller|14/12/2016|
 | 6.0.085    | Página Principal: Definición de categorías. (NOTA: Hay 9 creadas pero creo que en versiones anteriores eran 10). |Hugo Miller|14/12/2016|
 | 6.0.084    | Widgets: Regiones (Usados para categorias). Asignación de fotos/fondos a las categorías.</br> |Hugo Miller|14/12/2016|
