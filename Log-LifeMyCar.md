@@ -12,6 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
+| 6.0.096    | Plugin: UpdraftPlus Backup/Restore 1.12.29: Configuración de Backups programados. |José Manuel|14/12/2016|
 | 6.0.095    | Apariencia: Ajustes de color en secciones: "Cards", "Footer", "Main Content", "Other Colors", "PreFooter", "Site Header".|Hugo Miller|16/12/2016|
 | 6.0.094    | Listings: Extras: Añadir 6: "Asiento infantil", "Cables Batería", "Cadenas Nieve","Kit Antipinchazo", "Portabicicletas" y "Portaesquís".|José Manuel|16/12/2016|
 | 6.0.093    | Plugin: CPT UI (Custom Post Type UI): Add/Edit Taxonomies: Añadir "Extras" (vinculada en principio sólo a Listings -se puede vincular también a Productos-).|José Manuel|16/12/2016|
@@ -25,7 +26,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 | 6.0.085    | Página Principal: Definición de categorías. (NOTA: Hay 9 creadas pero creo que en versiones anteriores eran 10). |Hugo Miller|16/12/2016|
 | 6.0.084    | Widgets: Regiones (Usados para categorias). Asignación de fotos/fondos a las categorías.</br> |Hugo Miller|15/12/2016|
 | 6.0.083    | Apariencia: Logotipos (Normal e Inverso)</br> |Hugo Miller|15/12/2016|
-| 6.0.082    | Plugin: Instalación, activación y configuración de UpdraftPlus Backup/Restore 1.12.29. |José Manuel|14/12/2016|
+| 6.0.082    | Plugin: Instalación, activación y configuración bsica de UpdraftPlus Backup/Restore 1.12.29. |José Manuel|14/12/2016|
 | 6.0.081   | Listing: Tags:</br>- Introducción de los 17 tipos de Equipamiento (Tags, en el caso de este theme) con los que se trabajará: Aire acondicionado, Bluetooth, Cámara Visión Trasera (RVC), Control Distancia Aparcamiento, Control Velocidad, Detector Fatiga, Entrada audio/iPod, Entrada microUSB, GPS Integrado, Lector Tarjetas SD, Manejo por Voz, Manos Libres, Neunmáticos Invierno, Portaequipajes, Reproductor CD, Reproductor DVD y Start and Stop. |José Manuel|14/12/2016|
 | 6.0.080   | Plugin: IgniteUp 3.2: Configuración CSS</br> |Hugo Miller|13/12/2016|
 | 6.0.079    | Plugin: Configuración básica de Hide My WP 5.1.2</br></br>- Start: Import Options: -Select Sheme-: Medium Privacy - More Compatibility (Recommended)</br>- General Settings: Hide Login Page: Hide wp-login.php (marcar)</br>- General Settings: Login Query: pase_usted</br>- General Settings: Admin Login Key: 3791 [ NOTA: Current Login URL: /wp-login.php?pase_usted=3791 ]</br>- General Settings: Hide Admin: (marcar)</br>- General Settings: Spy Notify: (marcar)</br>- General Settings: Email sender name: HideMyWP</br>|Hugo Miller / José Manuel|13/12/2016|
