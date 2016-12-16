@@ -12,6 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
+| 6.0.090   | Footer: Eliminación de textos comerciales de Listable en el footer. Para ello, se eliminan código de footer.php y se sube el nuevo (modificado) a la misma ruta en el que se encontraba el footer original, pero ahora dentro de la carpeta correspondiente al tema listable-child|Hugo Miller|14/12/2016|
 | 6.0.089   | Tema: Activación de Child y Redefinción de CSS.|Hugo Miller|14/12/2016|
 | 6.0.088   | Apariencia: Subtexto Página Principal (Bajo el Título).|Hugo Miller|14/12/2016|
 | 6.0.087   | Widgets: Personalización de textos principales y secundarios.|Hugo Miller|14/12/2016|
