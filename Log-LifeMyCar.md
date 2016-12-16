@@ -12,9 +12,9 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
-6.0.087    | Widgets: Personalizacin de textos principales y secundarios|14/12/2016|
-|6.0.086    | FacetWP: Instalación preliminar en el Home para maquetación. Pendiente: Definir los "facets de búsqueda" más adecuados. |Hugo Miller|14/12/2016|
-|6.0.085    | Página Principal: Definición de categorías. (NOTA: Hay 9 creadas pero creo que en versiones anteriores eran 10). |Hugo Miller|14/12/2016|
+| 6.0.087    | Widgets: Personalizacin de textos principales y secundarios|14/12/2016|
+| 6.0.086    | FacetWP: Instalación preliminar en el Home para maquetación. Pendiente: Definir los "facets de búsqueda" más adecuados. |Hugo Miller|14/12/2016|
+| 6.0.085    | Página Principal: Definición de categorías. (NOTA: Hay 9 creadas pero creo que en versiones anteriores eran 10). |Hugo Miller|14/12/2016|
 | 6.0.084    | Widgets: Regiones (Usados para categorias). Asignación de fotos/fondos a las categorías.</br> |Hugo Miller|14/12/2016|
 | 6.0.083    | Apariencia: Logotipos (Normal e Inverso)</br> |Hugo Miller|13/12/2016|
 | 6.0.082    | Plugin: Instalación, activación y configuración de UpdraftPlus Backup/Restore 1.12.29. |José Manuel|14/12/2016|
