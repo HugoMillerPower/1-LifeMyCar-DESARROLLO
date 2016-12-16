@@ -12,14 +12,14 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
-| 6.0.090   | Footer: Eliminación de textos comerciales de Listable en el footer. Para ello, se eliminan lineas de código de footer.php y se sube el nuevo archivo (modificado) a la misma ruta en el que se encontraba el footer original, pero ahora dentro de la carpeta correspondiente al tema "listable-child".|Hugo Miller|14/12/2016|
-| 6.0.089   | Tema: Activación de Child y Redefinición de CSS.|Hugo Miller|14/12/2016|
-| 6.0.088   | Apariencia: Subtexto Página Principal (Bajo el Título).|Hugo Miller|14/12/2016|
-| 6.0.087   | Widgets: Personalización de textos principales y secundarios.|Hugo Miller|14/12/2016|
-| 6.0.086    | FacetWP: Instalación preliminar en el Home para maquetación. Pendiente: Definir los "facets de búsqueda" más adecuados. |Hugo Miller|14/12/2016|
-| 6.0.085    | Página Principal: Definición de categorías. (NOTA: Hay 9 creadas pero creo que en versiones anteriores eran 10). |Hugo Miller|14/12/2016|
-| 6.0.084    | Widgets: Regiones (Usados para categorias). Asignación de fotos/fondos a las categorías.</br> |Hugo Miller|14/12/2016|
-| 6.0.083    | Apariencia: Logotipos (Normal e Inverso)</br> |Hugo Miller|13/12/2016|
+| 6.0.090   | Footer: Eliminación de textos comerciales de Listable en el footer. Para ello, se eliminan lineas de código de footer.php y se sube el nuevo archivo (modificado) a la misma ruta en el que se encontraba el footer original, pero ahora dentro de la carpeta correspondiente al tema "listable-child".|Hugo Miller|16/12/2016|
+| 6.0.089   | Tema: Activación de Child y Redefinición de CSS.|Hugo Miller|16/12/2016|
+| 6.0.088   | Apariencia: Subtexto Página Principal (Bajo el Título).|Hugo Miller|16/12/2016|
+| 6.0.087   | Widgets: Personalización de textos principales y secundarios.|Hugo Miller|16/12/2016|
+| 6.0.086    | FacetWP: Instalación preliminar en el Home para maquetación. Pendiente: Definir los "facets de búsqueda" más adecuados. |Hugo Miller|16/12/2016|
+| 6.0.085    | Página Principal: Definición de categorías. (NOTA: Hay 9 creadas pero creo que en versiones anteriores eran 10). |Hugo Miller|16/12/2016|
+| 6.0.084    | Widgets: Regiones (Usados para categorias). Asignación de fotos/fondos a las categorías.</br> |Hugo Miller|15/12/2016|
+| 6.0.083    | Apariencia: Logotipos (Normal e Inverso)</br> |Hugo Miller|15/12/2016|
 | 6.0.082    | Plugin: Instalación, activación y configuración de UpdraftPlus Backup/Restore 1.12.29. |José Manuel|14/12/2016|
 | 6.0.081   | Listing: Tags:</br>- Introducción de los 17 tipos de Equipamiento (Tags, en el caso de este theme) con los que se trabajará: Aire acondicionado, Bluetooth, Cámara Visión Trasera (RVC), Control Distancia Aparcamiento, Control Velocidad, Detector Fatiga, Entrada audio/iPod, Entrada microUSB, GPS Integrado, Lector Tarjetas SD, Manejo por Voz, Manos Libres, Neunmáticos Invierno, Portaequipajes, Reproductor CD, Reproductor DVD y Start and Stop. |José Manuel|14/12/2016|
 | 6.0.080   | Plugin: IgniteUp 3.2: Configuración CSS</br> |Hugo Miller|13/12/2016|
