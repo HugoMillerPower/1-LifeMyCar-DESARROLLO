@@ -1,5 +1,5 @@
 <p align="left">
-<img src="https://s13.postimg.org/bl787p213/Life_My_Car_Github.png">
+<img src="https://s28.postimg.org/ux8l1tv6l/imagengit.png">
 </p>
 ### **Log LifeMyCar - Control de Cambios**
 
