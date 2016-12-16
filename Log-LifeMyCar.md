@@ -12,6 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
+| 6.0.089   | Tema: Activación de Child y Redefinción de CSS.|Hugo Miller|14/12/2016|
 | 6.0.088   | Apariencia: Subtexto Página Principal (Bajo el Título).|Hugo Miller|14/12/2016|
 | 6.0.087   | Widgets: Personalización de textos principales y secundarios.|Hugo Miller|14/12/2016|
 | 6.0.086    | FacetWP: Instalación preliminar en el Home para maquetación. Pendiente: Definir los "facets de búsqueda" más adecuados. |Hugo Miller|14/12/2016|
