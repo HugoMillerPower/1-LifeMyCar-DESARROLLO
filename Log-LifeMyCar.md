@@ -12,7 +12,6 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
-
 | 6.0.095    | Apariencia: Ajustes de color en secciones: "Cards", "Footer", "Main Content", "Other Colors", "PreFooter", "Site Header".|Hugo Miller|16/12/2016|
 | 6.0.094    | Listings: Extras: Añadir 6: "Asiento infantil", "Cables Batería", "Cadenas Nieve","Kit Antipinchazo", "Portabicicletas" y "Portaesquís".|José Manuel|16/12/2016|
 | 6.0.093    | Plugin: CPT UI (Custom Post Type UI): Add/Edit Taxonomies: Añadir "Extras" (vinculada en principio sólo a Listings -se puede vincular también a Productos-).|José Manuel|16/12/2016|
