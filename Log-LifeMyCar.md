@@ -12,35 +12,35 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
-| 6.0.109    | Apariencia: Fotos Provisiones en 3 Productos (Anuncios). Provisionales, sólo válidas para analizar el estado preliminar del servicio"|Hugo Miller|17/12/2016|
-| 6.0.108    | Apariencia: Fotos Provisiones en Widgets del FrontPage. Tanto de las entradas del Blog como de la sección "¿Cómo funciona?"|Hugo Miller|17/12/2016|
-| 6.0.107    | Apariencia: Botón de "Anuncia tu coche" non aspecto de botón. Instalar Class CSS en menú y escribir "cta" (en minúsculas). |Hugo Miller|17/12/2016|
-| 6.0.106    | Redes sociales: Configuración mediante un widget (custom menu) al que se le asigna el "Menú Redes Sociales" en la sección "Footer Area". |Hugo Miller|17/12/2016|
-| 6.0.105    | Menús: Configuración de Menús, lugares y condiciones. Según capturas de pantalla de Drive. |Hugo Miller|17/12/2016|
-| 6.0.104    | Páginas: Configuración de Páginas "Perfil" y "Configuración" como FullWith (no title). |Hugo Miller|17/12/2016|
-| 6.0.103    | Menús: Iconos en menú principal (Mediante Plugin). El plugin requerido previamente se llama "Menú Icon". |Hugo Miller|17/12/2016|
-| 6.0.102    | Apariencia: Identidad del sitio. Logos y FavIcon en Listable Child. |Hugo Miller|17/12/2016|
-| 6.0.101    | Plugin: Ultimate Memeber: Ajustes Básicos. Según capturas de pantalla guardadas en Drive.|Hugo Miller|17/12/2016|
-| 6.0.100    | Plugin: Hide My WP 5.1.2: IDS Firewall: Blocked Countries Code: Rusia (RU; hijos de Putin) e Indonesia (ID).|José Manuel|16/12/2016|
-| 6.0.099    | Plugin: Instalación y activación de Above The Fold Optimization 2.6.17. Sirve para tratar de alcanzar una puntuación de 100 en Google PageSpeed.|José Manuel|16/12/2016|
-| 6.0.098    | Plugin: UpdraftPlus Backup/Restore 1.12.29:</br></br>- Programación de Copias de seguridad: 1 copia diaria, guardando las últimas 8 unidades</br>- Programación de Copias de seguridad de la Base de Datos: 2 copias diarias, guardando las últimas 16 unidades</br>- Selección de un almacenamiento externo => Google Drive/UpdraftPlus (no se puede cambiar el nombre de esta carpeta o su ruta sin contar con el servicio Premium) (seguir esta página de Ayuda: https://updraftplus.com/support/configuring-google-drive-api-access-in-updraftplus/ ) => Se han generado estos datos:</br>+ Cliente de OAuth</br>+ ID cliente: 1095009698030-0kkj11gnus1b3kde7r7jg4fn9vb787fu.apps.googleusercontent.com</br>+ Secreto de cliente: PMgl1ZtpNDHI0ACBwMPNuR4S|José Manuel|16/12/2016|
-| 6.0.097    | Apariencia: Ajustes de color en secciones: "Cards", "Footer", "Main Content", "Other Colors", "PreFooter", "Site Header".|Hugo Miller|16/12/2016|
-| 6.0.096    | Listings: Extras: Añadir 6: "Asiento infantil", "Cables Batería", "Cadenas Nieve","Kit Antipinchazo", "Portabicicletas" y "Portaesquís".|José Manuel|16/12/2016|
-| 6.0.095    | Category Icon: extras (marcar).|José Manuel|16/12/2016|
-| 6.0.094    | Plugin: CPT UI (Custom Post Type UI): Add/Edit Taxonomies: Añadir "Extras" (vinculada en principio sólo a Listings -se puede vincular también a Productos-).|José Manuel|16/12/2016|
-| 6.0.093    | Listings: Condiciones de uso: Añadir 2: "Mascotas permitidas" y "Permite fumar".|José Manuel|16/12/2016|
-| 6.0.092    | Category Icon: condiciones_uso (marcar).|José Manuel|16/12/2016|
-| 6.0.091    | Plugin: CPT UI (Custom Post Type UI): Add/Edit Taxonomies: Añadir "Condiciones de uso" (vinculada en principio sólo a Listings -se puede vincular también a Productos-).|José Manuel|16/12/2016|
-| 6.0.090   | Footer: Eliminación de textos comerciales de Listable en el footer. Para ello, se eliminan lineas de código de footer.php y se sube el nuevo archivo (modificado) a la misma ruta en el que se encontraba el footer original, pero ahora dentro de la carpeta correspondiente al tema "listable-child".|Hugo Miller|16/12/2016|
-| 6.0.089   | Tema: Activación de Child y Redefinición de CSS.|Hugo Miller|16/12/2016|
-| 6.0.088   | Apariencia: Subtexto Página Principal (Bajo el Título).|Hugo Miller|16/12/2016|
-| 6.0.087   | Widgets: Personalización de textos principales y secundarios.|Hugo Miller|16/12/2016|
-| 6.0.086    | FacetWP: Instalación preliminar en el Home para maquetación. Pendiente: Definir los "facets de búsqueda" más adecuados. |Hugo Miller|16/12/2016|
-| 6.0.085    | Página Principal: Definición de categorías. (NOTA: Hay 9 creadas pero creo que en versiones anteriores eran 10). |Hugo Miller|16/12/2016|
-| 6.0.084    | Widgets: Regiones (Usados para categorias). Asignación de fotos/fondos a las categorías.</br> |Hugo Miller|15/12/2016|
-| 6.0.083    | Apariencia: Logotipos (Normal e Inverso)</br> |Hugo Miller|15/12/2016|
-| 6.0.082    | Plugin: Instalación, activación y configuración bsica de UpdraftPlus Backup/Restore 1.12.29. |José Manuel|14/12/2016|
-| 6.0.081   | Listing: Tags:</br>- Introducción de los 17 tipos de Equipamiento (Tags, en el caso de este theme) con los que se trabajará: Aire acondicionado, Bluetooth, Cámara Visión Trasera (RVC), Control Distancia Aparcamiento, Control Velocidad, Detector Fatiga, Entrada audio/iPod, Entrada microUSB, GPS Integrado, Lector Tarjetas SD, Manejo por Voz, Manos Libres, Neunmáticos Invierno, Portaequipajes, Reproductor CD, Reproductor DVD y Start and Stop. |José Manuel|14/12/2016|
+| 6.0.109   | Listing: Tags:</br>- Introducción de los 17 tipos de Equipamiento (Tags, en el caso de este theme) con los que se trabajará: Aire acondicionado, Bluetooth, Cámara Visión Trasera (RVC), Control Distancia Aparcamiento, Control Velocidad, Detector Fatiga, Entrada audio/iPod, Entrada microUSB, GPS Integrado, Lector Tarjetas SD, Manejo por Voz, Manos Libres, Neunmáticos Invierno, Portaequipajes, Reproductor CD, Reproductor DVD y Start and Stop. |José Manuel|14/12/2016|
+| 6.0.108    | Apariencia: Fotos Provisiones en 3 Productos (Anuncios). Provisionales, sólo válidas para analizar el estado preliminar del servicio"|Hugo Miller|17/12/2016|
+| 6.0.107    | Apariencia: Fotos Provisiones en Widgets del FrontPage. Tanto de las entradas del Blog como de la sección "¿Cómo funciona?"|Hugo Miller|17/12/2016|
+| 6.0.106    | Apariencia: Botón de "Anuncia tu coche" non aspecto de botón. Instalar Class CSS en menú y escribir "cta" (en minúsculas). |Hugo Miller|17/12/2016|
+| 6.0.105    | Redes sociales: Configuración mediante un widget (custom menu) al que se le asigna el "Menú Redes Sociales" en la sección "Footer Area". |Hugo Miller|17/12/2016|
+| 6.0.104    | Menús: Configuración de Menús, lugares y condiciones. Según capturas de pantalla de Drive. |Hugo Miller|17/12/2016|
+| 6.0.103    | Páginas: Configuración de Páginas "Perfil" y "Configuración" como FullWith (no title). |Hugo Miller|17/12/2016|
+| 6.0.102    | Menús: Iconos en menú principal (Mediante Plugin). El plugin requerido previamente se llama "Menú Icon". |Hugo Miller|17/12/2016|
+| 6.0.101    | Apariencia: Identidad del sitio. Logos y FavIcon en Listable Child. |Hugo Miller|17/12/2016|
+| 6.0.100    | Plugin: Ultimate Memeber: Ajustes Básicos. Según capturas de pantalla guardadas en Drive.|Hugo Miller|17/12/2016|
+| 6.0.099    | Plugin: Hide My WP 5.1.2: IDS Firewall: Blocked Countries Code: Rusia (RU; hijos de Putin) e Indonesia (ID).|José Manuel|16/12/2016|
+| 6.0.098    | Plugin: Instalación y activación de Above The Fold Optimization 2.6.17. Sirve para tratar de alcanzar una puntuación de 100 en Google PageSpeed.|José Manuel|16/12/2016|
+| 6.0.097    | Plugin: UpdraftPlus Backup/Restore 1.12.29:</br></br>- Programación de Copias de seguridad: 1 copia diaria, guardando las últimas 8 unidades</br>- Programación de Copias de seguridad de la Base de Datos: 2 copias diarias, guardando las últimas 16 unidades</br>- Selección de un almacenamiento externo => Google Drive/UpdraftPlus (no se puede cambiar el nombre de esta carpeta o su ruta sin contar con el servicio Premium) (seguir esta página de Ayuda: https://updraftplus.com/support/configuring-google-drive-api-access-in-updraftplus/ ) => Se han generado estos datos:</br>+ Cliente de OAuth</br>+ ID cliente: 1095009698030-0kkj11gnus1b3kde7r7jg4fn9vb787fu.apps.googleusercontent.com</br>+ Secreto de cliente: PMgl1ZtpNDHI0ACBwMPNuR4S|José Manuel|16/12/2016|
+| 6.0.096    | Apariencia: Ajustes de color en secciones: "Cards", "Footer", "Main Content", "Other Colors", "PreFooter", "Site Header".|Hugo Miller|16/12/2016|
+| 6.0.095    | Listings: Extras: Añadir 6: "Asiento infantil", "Cables Batería", "Cadenas Nieve","Kit Antipinchazo", "Portabicicletas" y "Portaesquís".|José Manuel|16/12/2016|
+| 6.0.094    | Category Icon: extras (marcar).|José Manuel|16/12/2016|
+| 6.0.093    | Plugin: CPT UI (Custom Post Type UI): Add/Edit Taxonomies: Añadir "Extras" (vinculada en principio sólo a Listings -se puede vincular también a Productos-).|José Manuel|16/12/2016|
+| 6.0.092    | Listings: Condiciones de uso: Añadir 2: "Mascotas permitidas" y "Permite fumar".|José Manuel|16/12/2016|
+| 6.0.091    | Category Icon: condiciones_uso (marcar).|José Manuel|16/12/2016|
+| 6.0.090    | Plugin: CPT UI (Custom Post Type UI): Add/Edit Taxonomies: Añadir "Condiciones de uso" (vinculada en principio sólo a Listings -se puede vincular también a Productos-).|José Manuel|16/12/2016|
+| 6.0.089   | Footer: Eliminación de textos comerciales de Listable en el footer. Para ello, se eliminan lineas de código de footer.php y se sube el nuevo archivo (modificado) a la misma ruta en el que se encontraba el footer original, pero ahora dentro de la carpeta correspondiente al tema "listable-child".|Hugo Miller|16/12/2016|
+| 6.0.088   | Tema: Activación de Child y Redefinición de CSS.|Hugo Miller|16/12/2016|
+| 6.0.087   | Apariencia: Subtexto Página Principal (Bajo el Título).|Hugo Miller|16/12/2016|
+| 6.0.086   | Widgets: Personalización de textos principales y secundarios.|Hugo Miller|16/12/2016|
+| 6.0.085    | FacetWP: Instalación preliminar en el Home para maquetación. Pendiente: Definir los "facets de búsqueda" más adecuados. |Hugo Miller|16/12/2016|
+| 6.0.084    | Página Principal: Definición de categorías. (NOTA: Hay 9 creadas pero creo que en versiones anteriores eran 10). |Hugo Miller|16/12/2016|
+| 6.0.083    | Widgets: Regiones (Usados para categorias). Asignación de fotos/fondos a las categorías.</br> |Hugo Miller|15/12/2016|
+| 6.0.082    | Apariencia: Logotipos (Normal e Inverso)</br> |Hugo Miller|15/12/2016|
+| 6.0.081    | Plugin: Instalación, activación y configuración bsica de UpdraftPlus Backup/Restore 1.12.29. |José Manuel|14/12/2016|
 | 6.0.080   | Plugin: IgniteUp 3.2: Configuración CSS</br> |Hugo Miller|13/12/2016|
 | 6.0.079    | Plugin: Configuración básica de Hide My WP 5.1.2</br></br>- Start: Import Options: -Select Sheme-: Medium Privacy - More Compatibility (Recommended)</br>- General Settings: Hide Login Page: Hide wp-login.php (marcar)</br>- General Settings: Login Query: pase_usted</br>- General Settings: Admin Login Key: 3791 [ NOTA: Current Login URL: /wp-login.php?pase_usted=3791 ]</br>- General Settings: Hide Admin: (marcar)</br>- General Settings: Spy Notify: (marcar)</br>- General Settings: Email sender name: HideMyWP</br>|Hugo Miller / José Manuel|13/12/2016|
 | 6.0.078    | Listings: Types: Introducción de los modelos (180) de coches, clasificados por marcas (5):</br></br>- Audi: 59 modelos repartidos en 13 familias</br>- Opel: 31 modelos repartidos en 13 familias</br>- Seat: 16 modelos repartidos en 6 familias</br>- Škoda: 34 modelos repartidos en 11 familias</br>- Volkswagen: 40 modelos repartidos en 19 familias</br>|José Manuel|13/12/2016|
