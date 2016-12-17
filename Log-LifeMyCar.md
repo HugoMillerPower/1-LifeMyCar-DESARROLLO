@@ -12,7 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
-| 6.0.109   | Listing: Tags:</br>- Introducción de los 17 tipos de Equipamiento (Tags, en el caso de este theme) con los que se trabajará: Aire acondicionado, Bluetooth, Cámara Visión Trasera (RVC), Control Distancia Aparcamiento, Control Velocidad, Detector Fatiga, Entrada audio/iPod, Entrada microUSB, GPS Integrado, Lector Tarjetas SD, Manejo por Voz, Manos Libres, Neunmáticos Invierno, Portaequipajes, Reproductor CD, Reproductor DVD y Start and Stop. |José Manuel|14/12/2016|
+| 6.0.109   | Listing: Tags:</br>- Introducción de los 17 tipos de Equipamiento (Tags, en el caso de este theme) con los que se trabajará: Aire acondicionado, Bluetooth, Cámara Visión Trasera (RVC), Control Distancia Aparcamiento, Control Velocidad, Detector Fatiga, Entrada audio/iPod, Entrada microUSB, GPS Integrado, Lector Tarjetas SD, Manejo por Voz, Manos Libres, Neunmáticos Invierno, Portaequipajes, Reproductor CD, Reproductor DVD y Start and Stop. |José Manuel|17/12/2016|
 | 6.0.108    | Apariencia: Fotos Provisiones en 3 Productos (Anuncios). Provisionales, sólo válidas para analizar el estado preliminar del servicio"|Hugo Miller|17/12/2016|
 | 6.0.107    | Apariencia: Fotos Provisiones en Widgets del FrontPage. Tanto de las entradas del Blog como de la sección "¿Cómo funciona?"|Hugo Miller|17/12/2016|
 | 6.0.106    | Apariencia: Botón de "Anuncia tu coche" non aspecto de botón. Instalar Class CSS en menú y escribir "cta" (en minúsculas). |Hugo Miller|17/12/2016|
