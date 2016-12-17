@@ -12,8 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
-
-| 6.0.083    | Apariencia: Logotipos (Normal e Inverso)</br> |Hugo Miller|15/12/2016|
+| 6.0.083    | Apariencia: Logotipos (Normal e Inverso) |Hugo Miller|15/12/2016|
 | 6.0.103    | Menús: Iconos en men principal.|Hugo Miller|17/12/2016|
 | 6.0.102    | Apariencia: Identidad del sitio. Logos y FavIcon en Listable Child.|Hugo Miller|17/12/2016|
 | 6.0.103    | Menús: Iconos en men principal.|Hugo Miller|17/12/2016|
