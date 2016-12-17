@@ -12,8 +12,9 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
-| 6.0.105    | Menús:Configuración de Menús, lugares y condiciones. Según capturas de pantalla de Drive. |Hugo Miller|17/12/2016|
-| 6.0.104    | Páginas:Configuración de Páginas "Perfil" y "Configuración" como FullWith (no title). |Hugo Miller|17/12/2016|
+| 6.0.106    | Redes sociales: Configuración mediante un widget (custom menu) al que se le asigna el "Menú Redes Sociales" |Hugo Miller|17/12/2016|
+| 6.0.105    | Menús: Configuración de Menús, lugares y condiciones. Según capturas de pantalla de Drive. |Hugo Miller|17/12/2016|
+| 6.0.104    | Páginas: Configuración de Páginas "Perfil" y "Configuración" como FullWith (no title). |Hugo Miller|17/12/2016|
 | 6.0.103    | Menús: Iconos en menú principal (Mediante Plugin). El plugin requerido previamente se llama "Menú Icon". |Hugo Miller|17/12/2016|
 | 6.0.102    | Apariencia: Identidad del sitio. Logos y FavIcon en Listable Child. |Hugo Miller|17/12/2016|
 | 6.0.101    | Plugin: Ultimate Memeber: Ajustes Básicos. Según capturas de pantalla guardadas en Drive.|Hugo Miller|17/12/2016|
