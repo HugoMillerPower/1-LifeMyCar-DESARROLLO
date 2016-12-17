@@ -12,5 +12,5 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | # | Descripción  |Autor|Fecha|
 |:------------- |:------------- |:---------------|:---------------|
-|002| Error después de un par de segundo en "Localition" de FacetWP del Search del Home|Hugo Miller|17/12/2016|
+|002| Error después de un par de segundos en "Localition" de FacetWP del Search del Home|Hugo Miller|17/12/2016|
 |001| No se pueden subir fotos de perfil o fondos desde Ultimate Member|Hugo Miller|17/12/2016|
