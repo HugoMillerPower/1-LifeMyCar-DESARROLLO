@@ -12,6 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
+| 6.0.101    | Plugin: Ultimate Memeber: Ajustes Básicos. Según capturas de pantalla guardadas en DropBox.|hugo Miller|17/12/2016|
 | 6.0.100    | Plugin: Hide My WP 5.1.2: IDS Firewall: Blocked Countries Code: Rusia (RU; hijos de Putin) e Indonesia (ID).|José Manuel|16/12/2016|
 | 6.0.099    | Plugin: Instalación y activación de Above The Fold Optimization 2.6.17. Sirve para tratar de alcanzar una puntuación de 100 en Google PageSpeed.|José Manuel|16/12/2016|
 | 6.0.098    | Plugin: UpdraftPlus Backup/Restore 1.12.29:</br></br>- Programación de Copias de seguridad: 1 copia diaria, guardando las últimas 8 unidades</br>- Programación de Copias de seguridad de la Base de Datos: 2 copias diarias, guardando las últimas 16 unidades</br>- Selección de un almacenamiento externo => Google Drive (seguir esta página de Ayuda: https://updraftplus.com/support/configuring-google-drive-api-access-in-updraftplus/ ) => Se han generado estos datos:</br>+ Cliente de OAuth</br>+ ID cliente: 1095009698030-0kkj11gnus1b3kde7r7jg4fn9vb787fu.apps.googleusercontent.com</br>+ Secreto de cliente: PMgl1ZtpNDHI0ACBwMPNuR4S|José Manuel|16/12/2016|
