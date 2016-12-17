@@ -12,6 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
+| 6.0.103    | Menús: Iconos en men principal.|Hugo Miller|17/12/2016|
 | 6.0.102    | Apariencia: Identidad del sitio. Logos y FavIcon en Listable Child.|Hugo Miller|17/12/2016|
 | 6.0.101    | Plugin: Ultimate Memeber: Ajustes Básicos. Según capturas de pantalla guardadas en DropBox.|Hugo Miller|17/12/2016|
 | 6.0.100    | Plugin: Hide My WP 5.1.2: IDS Firewall: Blocked Countries Code: Rusia (RU; hijos de Putin) e Indonesia (ID).|José Manuel|16/12/2016|
