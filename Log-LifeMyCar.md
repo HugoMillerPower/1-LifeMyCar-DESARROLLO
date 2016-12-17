@@ -12,7 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
-| 6.0.111    | Listings: Equipamiento: Añadir 17: Aire acondicionado, Bluetooth, Cámara Visión Trasera (RVC), Control Distancia Aparcamiento, Control Velocidad, Detector Fatiga, Entrada audio/iPod, Entrada microUSB, GPS Integrado, Lector Tarjetas SD, Manejo por Voz, Manos Libres, Neunmáticos Invierno, Portaequipajes, Reproductor CD, Reproductor DVD y Start and Stop.|José Manuel|16/12/2016|
+| 6.0.111    | Listings: Equipamiento: Añadir 17: Aire acondicionado, Bluetooth, Cámara Visión Trasera (RVC), Control Distancia Aparcamiento, Control Velocidad, Detector Fatiga, Entrada audio/iPod, Entrada microUSB, GPS Integrado, Lector Tarjetas SD, Manejo por Voz, Manos Libres, Neunmáticos Invierno, Portaequipajes, Reproductor CD, Reproductor DVD y Start and Stop.|José Manuel|17/12/2016|
 | 6.0.110    | Category Icon: equipamiento (marcar).|José Manuel|17/12/2016|
 | 6.0.109    | Plugin: CPT UI (Custom Post Type UI): Add/Edit Taxonomies: Añadir "Equipamiento" (vinculada en principio sólo a Listings -se puede vincular también a Productos-).|José Manuel|17/12/2016|
 | 6.0.108    | Apariencia: Fotos Provisiones en 3 Productos (Anuncios). Provisionales, sólo válidas para analizar el estado preliminar del servicio"|Hugo Miller|17/12/2016|
