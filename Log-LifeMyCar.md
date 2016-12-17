@@ -12,7 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
-| 6.0.108    | Apariencia: Fotos Provisiones en Widgets del FrontPage. Tanto de las entradas del Blog como de la sección "¿Cómo funciona?"|17/12/2016|
+| 6.0.108    | Apariencia: Fotos Provisiones en Widgets del FrontPage. Tanto de las entradas del Blog como de la sección "¿Cómo funciona?"|Hugo Miller|17/12/2016|
 | 6.0.107    | Apariencia: Botón de "Anuncia tu coche" non aspecto de botón. Instalar Class CSS en menú y escribir "cta" (en minúsculas). |Hugo Miller|17/12/2016|
 | 6.0.106    | Redes sociales: Configuración mediante un widget (custom menu) al que se le asigna el "Menú Redes Sociales" en la sección "Footer Area". |Hugo Miller|17/12/2016|
 | 6.0.105    | Menús: Configuración de Menús, lugares y condiciones. Según capturas de pantalla de Drive. |Hugo Miller|17/12/2016|
