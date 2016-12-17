@@ -116,3 +116,4 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 | 6.0.001    | WP: Instalación de Wordpress 4.7. |Hugo Miller|7/12/2016|
  
 
+ 
