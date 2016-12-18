@@ -12,6 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------
+| 6.0.118    | Iconos: Asociar iconos mediante opción "select icon" en "Menú legal".|Hugo Miller|17/12/2016|
 | 6.0.117    | Menú: Creación de "Menú legal" y ubicación provisional en el Area Footer mediante el widget "Menu personalizado".|Hugo Miller|17/12/2016|
 | 6.0.116    | Páginas: Creación de páginas de "Contacto" y "Política de privacidad".|Hugo Miller|17/12/2016|
 | 6.0.115    | Google API KEY: Generada en el entorno de Google Developers de tuttopiasoftware@gmail.com. Almacenada en Google Drive.|Hugo Miller|17/12/2016|
