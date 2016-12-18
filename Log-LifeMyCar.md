@@ -12,6 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
+| 6.0.116    | Plugin: Hide My WP 5.1.2: Desinstalación de la versión torrent, compra de la versión oficial, instalación, activación y configuración básica:</br>- IDS Firewall: Blocked Countries Code: Rusia (RU; hijos de Putin), Indonesia (ID) y Ucrania (UA).|José Manuel|18/12/2016|
 | 6.0.115    | Google API KEY: Generada en el entorno de Google Developers de tuttopiasoftware@gmail.com. Almacenada en Google Drive.|Hugo Miller|17/12/2016|
 | 6.0.114    | Seguridad: edición el archivo .htaccess para evitar el acceso a la web desde Rusia, ya que parece que no es eficaz el bloqueo de todo un país desde Hide My WP/IDS Firewall/Blocked Coutries Code. Se siguen las indicaciones y datos obtenidos en las siguientes páginas:</br></br>- https://boluda.com/tutorial/bloquear-el-spam-en-tu-web/</br>- https://www.ip2location.com/blockvisitorsbycountry.aspx</br></br>- NOTA: En caso de preferir un Plugin para que haga esta tarea, el recomendado por las webs anteriores es IP2Location Country Blocker.|José Manuel|18/12/2016|
 | 6.0.113    | Apariencia: Página de "Ayuda". Personalización de imagen de fondo y textos.|Hugo Miller|17/12/2016|
