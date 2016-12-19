@@ -12,6 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------
+| 6.0.123    | Apariencia: CSS retocado para que las Categorías (iconos) del HomePage sea azules al pasar el ratón sobre ellas.|Hugo Miller|19/12/2016|
 | 6.0.122    | Páginas: Creación de Páginas: "Aviso Legal", "Sobre Nosotros", "Regulación". Siguiendo patrón de Social Car. Posteriormente se asignan dichas páginas al "Menú legal"|Hugo Miller|19/12/2016|
 | 6.0.121    | Problema detectado: Un usuario del frontend no puede subir fotografías a su perfil. El perfil de los usuarios lo gestiona Ultimate Member, que sabemos hacía perfectamente esta tarea en versiones anteriores del website. Todo indica que el problema debe causarlo el plugin Hide My WP. Se ha consultado a su creador oficial para obtener una solución.</br></br>- http://support.wpwave.com/forums/topic/unable-to-upload-images-from-the-frontend#post-13601 |Hugo Miller / José Manuel|19/12/2016|
 | 6.0.120    | Plugin: Hide My WP: Actualización oficial a las versiones oficiales Hide My WP 5.5 y 5.5.1.|José Manuel|18/12/2016|
