@@ -12,7 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------
-| 6.0.120    | Plugin: Hide My WP: Actualización oficial a la versión Hide My WP 5.5.|José Manuel|18/12/2016|
+| 6.0.120    | Plugin: Hide My WP: Actualización oficial a las versiones oficiales Hide My WP 5.5 y 5.5.1.|José Manuel|18/12/2016|
 | 6.0.119    | Plugin: Hide My WP 5.1.2: Desinstalación de la versión torrent, compra de la versión oficial, instalación, activación y configuración básica:</br>- IDS Firewall: Blocked Countries Code: Rusia (RU; hijos de Putin), Indonesia (ID) y Ucrania (UA).|José Manuel|18/12/2016|
 | 6.0.118    | Iconos: Asociar iconos mediante opción "select icon" en "Menú legal".|Hugo Miller|18/12/2016|
 | 6.0.117    | Menú: Creación de "Menú legal" y ubicación provisional en el Area Footer mediante el widget "Menu personalizado".|Hugo Miller|18/12/2016|
