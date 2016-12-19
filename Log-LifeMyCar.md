@@ -12,6 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------
+| 6.0.127    | Apariencia: CSS retocado para colores de azul el icono de notificaciones (contenedor de campana) de la página principal. |Hugo Miller|19/12/2016|
 | 6.0.126    | Apariencia: CSS retocado para colores de azul los iconos del menú social al pasar el ratón sobre ellos Queda pendiente ver el tipo de azul. |Hugo Miller|19/12/2016|
 | 6.0.125    | Apariencia: CSS retocado para acercar menú legal a Footer. Quizs haya que retocar las distancias posteriormente cuando ya estén los menús hechos. |Hugo Miller|19/12/2016|
 | 6.0.124    | Apariencia: CSS retocado para que las Marcas (iconos) del Widget "marcas" del HomePage sea azules al pasar el ratón sobre ellas.|Hugo Miller|19/12/2016|
