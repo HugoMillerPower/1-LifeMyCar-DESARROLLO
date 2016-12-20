@@ -12,6 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------
+| 6.0.128    | Problema solucionado (ver 6.0.121): Los consejos del servicio de soporte de Hide My WP no han sido efectivos. Finalmente se ha resuelto modificando el archivo .htaccess, eliminando las líneas añadidas en 6.0.068. De este modo, .htaccess solamente tiene las modificaciones hechas por Hide My WP más las añadidas en 6.0.114. |José Manuel|20/12/2016|
 | 6.0.127    | Apariencia: CSS retocado para colores de azul el icono de notificaciones (contenedor de campana) de la página principal. |Hugo Miller|19/12/2016|
 | 6.0.126    | Apariencia: CSS retocado para colores de azul los iconos del menú social al pasar el ratón sobre ellos Queda pendiente ver el tipo de azul. |Hugo Miller|19/12/2016|
 | 6.0.125    | Apariencia: CSS retocado para acercar menú legal a Footer. Quizs haya que retocar las distancias posteriormente cuando ya estén los menús hechos. |Hugo Miller|19/12/2016|
@@ -71,7 +72,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 | 6.0.071    | Plugin: Configuración básica de WPML Multilingual CMS 3.5.3.1. |José Manuel|12/12/2016|
 | 6.0.070    | Ajustes: Enlaces permanentes:</br>- Ajustes comunes: Nombre de la entrada (marcar) |José Manuel|12/12/2016|
 | 6.0.069    | Ajustes: Generales:</br></br>- Título del sitio: LifeMyCar</br>- Descripción corta: LifeMyCar es una plataforma de CarSharing para vehículos de las marcas Volkswagen, Audi, Seat, Škoda y Opel.</br>- Dirección de WordPress (URL): https://www.lifemycar.com</br>- Dirección del sitio (URL): https://www.lifemycar.com</br>- Dirección de correo electrónico: soporte@lifemycar.com</br>- Miembros: (marcado)</br>- Zona horaria: UTC + 1</br>- Formato de fecha: (4ª opción)</br>- Formato de hora: (3ª opción)</br>- La semana comienza: Lunes</br>- Idioma del sitio: Español |José Manuel|12/12/2016|
-| 6.0.068    | Seguridad: Modificación manuel del archivo public_html/.htaccess, según las instrucciones de Google Drive/.../12-Seguridad/.htaacess/Seguridad - Códigos para los .htacces/htaccess-de-root.txt.</br></br>NOTA: Se ha mutado la instrucción referida a los bloqueos de direcciones IP, ya que en este proyecto se puede llegar a trabajar desde más de 2 IPs simultáneamente.|José Manuel|10/12/2016|
+| 6.0.068    | Seguridad: Modificación manual del archivo public_html/.htaccess, según las instrucciones de Google Drive/.../12-Seguridad/.htaacess/Seguridad - Códigos para los .htacces/htaccess-de-root.txt.</br></br>NOTA: Se ha mutado la instrucción referida a los bloqueos de direcciones IP, ya que en este proyecto se puede llegar a trabajar desde más de 2 IPs simultáneamente.|José Manuel|10/12/2016|
 | 6.0.067    | Seguridad: Cambio del ID de usuario de hugo desde ID=1 a ID=5. |José Manuel|10/12/2016|
 | 6.0.066    | Plugin: Actualización de Facet WP 2.6.5. |José Manuel|10/12/2016|
 | 6.0.065    | Plugin: Actualización de Ultimate Member - Real-time Notifications 1.4.1. |José Manuel|10/12/2016|
