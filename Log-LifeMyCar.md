@@ -12,6 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------
+| 6.0.130    | Listings: Campos de la empresa: Tal y como vienen la configuración por defecto, estos campos (orientados al mundo de las empresas que publican anuncios) aparecerían en el formulario de "Añadir coche". Como no nos interesan, los vamos a ocultar a los usuarios normales. Para ello, se editan todos los "campos de la empresa", forzando que sean sólo visibles en el modo Admin y cambiando sus prioridades a las siguientes:</br></br>- company_tagline => 98.1</br>- company_logo => 98.2</br>- main_image => 98.3</br>- company_phone => 98.4</br>- company_website => 98.5</br>- company_twitter => 98.6</br>- products =>98.7. |José Manuel|20/12/2016|
 | 6.0.129    | Error detectado y solucionado: el cambio realizado en 6.0.076 no estaba activo. Se activa de nuevo. |José Manuel|20/12/2016|
 | 6.0.128    | Problema solucionado (ver 6.0.121): Los consejos del servicio de soporte de Hide My WP no han sido efectivos. Finalmente se ha resuelto modificando el archivo .htaccess, eliminando las líneas añadidas en 6.0.068. De este modo, .htaccess solamente tiene las modificaciones hechas por Hide My WP más las añadidas en 6.0.114. |José Manuel|20/12/2016|
 | 6.0.127    | Apariencia: CSS retocado para colores de azul el icono de notificaciones (contenedor de campana) de la página principal. |Hugo Miller|19/12/2016|
