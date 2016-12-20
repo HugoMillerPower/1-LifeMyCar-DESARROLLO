@@ -12,6 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------
+| 6.0.129    | Error detectado y solucionado: el cambio realizado en 6.0.076 no estaba activo. Se activa de nuevo. |José Manuel|20/12/2016|
 | 6.0.128    | Problema solucionado (ver 6.0.121): Los consejos del servicio de soporte de Hide My WP no han sido efectivos. Finalmente se ha resuelto modificando el archivo .htaccess, eliminando las líneas añadidas en 6.0.068. De este modo, .htaccess solamente tiene las modificaciones hechas por Hide My WP más las añadidas en 6.0.114. |José Manuel|20/12/2016|
 | 6.0.127    | Apariencia: CSS retocado para colores de azul el icono de notificaciones (contenedor de campana) de la página principal. |Hugo Miller|19/12/2016|
 | 6.0.126    | Apariencia: CSS retocado para colores de azul los iconos del menú social al pasar el ratón sobre ellos Queda pendiente ver el tipo de azul. |Hugo Miller|19/12/2016|
