@@ -13,6 +13,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------
 | 6.0.134    | Listings: Listing campos: Primera versión de los campos que incluirá el formulario de "Anuncia tu coche". Las capturas de pantalla y textos están en /Google Drive/01-TRABAJOS/2-APPs_Services/2.02-LifeMyCar/11-BackUps/Manuales/Versión 0.6/Capturas/Listings/. |José Manuel|22/12/2016|
+| 6.0.129    | Error detectado y solucionado: el cambio realizado en 6.0.076 no estaba activo. Se activa de nuevo. |José Manuel|20/12/2016|
 | 6.0.133    | Plugin: Actualización de Above The Fold Optimization a la versión 2.7. |José Manuel|22/12/2016|
 | 6.0.132    | Problema detectado: Cualquier configuración de Hide My WP estropea el CSS de las páginas de anuncios (listings; páginas con las que no se había trabajado hasta ahora). Es más, alguna de las configuraciones estropea incluso el HOME (no se había descubierto hasta ahora porque esas configuraciones no habían sido las escogidas en la configuración inicial de 6.0.079 y por ello el HOME se veía bien; pero es muy probable que las páginas de anuncios siempre hayan estado estropeadas). Se ha consultado a su creador oficial para obtener una solución.</br></br>- http://support.wpwave.com/forums/topic/problem-with-css#post-13678 |José Manuel|21/12/2016|
 | 6.0.131    | Apariencia: CSS retocado para distribuir elementos del "menú legal". |Hugo Miller|20/12/2016|
