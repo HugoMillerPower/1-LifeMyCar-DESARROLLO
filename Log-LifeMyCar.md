@@ -12,6 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------
+| 7.0.001    | Nueva instalación de WordPress:</br></br>- Habilitar Multisite (WPMU). |Hugo Miller|22/12/2016|
 | 6.0.135    | Plugin: Actualización de WooCommerce 2.6.10. |José Manuel|22/12/2016|
 | 6.0.134    | Listings: Listing campos: Primera versión de los campos que incluirá el formulario de "Anuncia tu coche". Las capturas de pantalla y textos están en /Google Drive/01-TRABAJOS/2-APPs_Services/2.02-LifeMyCar/11-BackUps/Manuales/Versión 0.6/Capturas/Listings/. |José Manuel|22/12/2016|
 | 6.0.133    | Plugin: Actualización de Above The Fold Optimization a la versión 2.7.1. |José Manuel|22/12/2016|
