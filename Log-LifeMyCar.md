@@ -12,6 +12,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------
+| 7.0.002    | Seguridad: edición el archivo .htaccess para evitar el acceso a la web desde Rusia, ya que parece que no es eficaz el bloqueo de todo un país desde Hide My WP/IDS Firewall/Blocked Coutries Code. Se siguen las indicaciones y datos obtenidos en las siguientes páginas:</br></br>- https://boluda.com/tutorial/bloquear-el-spam-en-tu-web/</br>- https://www.ip2location.com/blockvisitorsbycountry.aspx</br></br>- NOTA: En caso de preferir un Plugin para que haga esta tarea, el recomendado por las webs anteriores es IP2Location Country Blocker. |José Manuel|22/12/2016|
 | 7.0.001    | Nueva instalación de WordPress:</br>- Habilitar Multisite (WPMU). |Hugo Miller|22/12/2016|
 | 6.0.135    | Plugin: Actualización de WooCommerce 2.6.10. |José Manuel|22/12/2016|
 | 6.0.134    | Listings: Listing campos: Primera versión de los campos que incluirá el formulario de "Anuncia tu coche". Las capturas de pantalla y textos están en /Google Drive/01-TRABAJOS/2-APPs_Services/2.02-LifeMyCar/11-BackUps/Manuales/Versión 0.6/Capturas/Listings/. |José Manuel|22/12/2016|
