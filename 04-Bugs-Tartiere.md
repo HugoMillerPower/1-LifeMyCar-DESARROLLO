@@ -10,5 +10,5 @@ _Bugs pendientes de resolver del Sito del Grupo Tartiere_
 
 | # | Descripción  |Autor|Fecha|
 |:------------- |:------------- |:---------------|:---------------|
-|001| Incio (Sin Bugs)|Hugo Miller|20/12/2016|
+|001| Inicio (Sin Bugs)|Hugo Miller|20/12/2016|
 
