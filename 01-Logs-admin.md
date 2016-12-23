@@ -11,9 +11,9 @@ _Relativo al proceso de implementación del servicio de Administración de sitio
 
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
-|:------------- |:---------------|:---------------|:---------------
+|:------------- |:---------------|:---------------|:---------------|
 
-| 8.0.010   | Plugin: Instalación de Akismet 3.2. y "Activación para la Red" |Hugo Miller |23/12/2016|
+| 8.0.010   | Plugin: Instalación de Akismet 3.2. y "Activación para la Red". |Hugo Miller |23/12/2016|
 | 8.0.009    | Plugin: Instalación y activación de IgniteUp 3.2. |Hugo Miller |23/12/2016|
 | 8.0.008    | Borrado de resto de temas: Twenty Fifteen, Twenty Seventeen, Twenty Sixteen. |Hugo Miller |23/12/2016|
 | 8.0.007    | Theme: Instalación de Listable (Padre) e instalación y activación de Listable (Hijo/Child). Incluye "Activación para la red". |Hugo Miller |23/12/2016|
