@@ -11,7 +11,7 @@
 | 04-Bugs-LifeMyCar.md    |  Bugs del sitio MATRIZ.|www.lifemycar.com|
 | 05-Log-Tartiere.md     |  Implementación del sitio Grupo Tartiere.|tartiere.lifemycar.com|
 | 06-Bugs-Tartiere.md    |  Bugs del sitio Grupo Tartiere.|tartiere.lifemycar.com|
-| 07-LifeMyCar (v6 y v7 - MonoSite)   |  Desarrollo de versiones previas V6 y V7 (MonoSite)|
+| 07-LifeMyCar (v6 y v7 - MonoSite)   |  Desarrollo de versiones previas V6 y V7 (MonoSite)|www.lifemycar.com|
 
 
 
