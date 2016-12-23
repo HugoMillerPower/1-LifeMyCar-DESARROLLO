@@ -1,8 +1,7 @@
 <p align="left">
 <img src="https://s28.postimg.org/ux8l1tv6l/imagengit.png">
 </p>
-###_Área de administración de los sitios_
-Docuementos vínculados con el desarrollo e implementación del sitio "Lifemycar".
+###_Relación de administración de .
 
 | Documento  |Contenido |Dominio|
 |:------------- |:---------------|:---------------|:---------------|
@@ -12,6 +11,6 @@ Docuementos vínculados con el desarrollo e implementación del sitio "Lifemycar
 | Bugs-Tartiere.md    |  Bugs del sitio Grupo Tartiere.|tartiere.lifemycar.com|
 | Log-LifeMycar.md     |  Implementación del sitio MATRIZ.|www.lifemycar.com|
 | Bugs-LifeMyCar.md    |  Bugs del sitio MATRIZ.|www.lifemycar.com|
- 
+
 
 
