@@ -12,6 +12,6 @@ Docuementos vínculados con el desarrollo e implementación del sitio "Lifemycar
 | Bugs-Tartiere.md    |  Bugs del sitio Grupo Tartiere.|tartiere.lifemycar.com|
 | Log-LifeMycar.md     |  Implementación del sitio MATRIZ.|www.lifemycar.com|
 | Bugs-LifeMyCar.md    |  Bugs del sitio MATRIZ.|www.lifemycar.com|
-
+ 
 
 
