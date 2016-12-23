@@ -14,4 +14,4 @@ _Relativo al proceso de implementación del servicio del Grupo Tartiere_
 |:------------- |:---------------|:---------------|:---------------
 | 8.02.002    | Activación de IgniteUp 3.2.|Hugo Miller|23/12/2016|
 | 8.02.001    | Activación de Listable.|Hugo Miller|23/12/2016|
-| 8.02.000    | Incio. El .1 se debe a que se trata del sitio nº1|Hugo Miller|23/12/2016|
+| 8.02.000    | Inicio. El .02 se debe a que se trata del sitio nº 2|Hugo Miller|23/12/2016|
