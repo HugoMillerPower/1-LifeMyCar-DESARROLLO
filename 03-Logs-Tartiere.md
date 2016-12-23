@@ -12,4 +12,4 @@ _Relativo al proceso de implementación del servicio del Grupo Tartiere_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------
-| 8.1.000    | Incio. El .1 se debe a que se trata del sitio nº1|José Manuel|23/12/2016|
+| 8.1.000    | Incio. El .2 se debe a que se trata del sitio nº1|José Manuel|23/12/2016|
