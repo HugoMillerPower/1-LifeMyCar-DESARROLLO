@@ -19,4 +19,4 @@ _Relativo al proceso de implementación del servicio de Logs LifeMyCar_
 | 8.01.003    | Configuración de Ignite 3.2.|Hugo Miller|23/12/2016|
 | 8.01.002    | Activación de IgniteUp 3.2.|Hugo Miller|23/12/2016|
 | 8.01.001    | Activación de Listable.|Hugo Miller|23/12/2016|
-| 8.01.000    | Incio. El .1 se debe a que se trata del sitio nº1|José Manuel|23/12/2016|
+| 8.01.000    | Inicio. El .01 se debe a que se trata del sitio nº1|José Manuel|23/12/2016|
