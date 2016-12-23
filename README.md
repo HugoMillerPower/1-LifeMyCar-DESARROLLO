@@ -1,7 +1,7 @@
 <p align="left">
 <img src="https://s28.postimg.org/ux8l1tv6l/imagengit.png">
 </p>
-###_Relación de administración de .
+###Relación de Documentos del Desarrollo.
 
 | Documento  |Contenido |Dominio|
 |:------------- |:---------------|:---------------|:---------------|
