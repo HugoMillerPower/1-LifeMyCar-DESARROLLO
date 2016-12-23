@@ -12,6 +12,7 @@ _Relativo al proceso de implementación del servicio de Administración de sitio
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------
+| 8.0.009    | Plugin: Instalación y activación de IgniteUp 3.2. |Hugo Miller |23/12/2016|
 | 8.0.008    | Borrado de resto de temas: Twenty Fifteen, Twenty Seventeen, Twenty Sixteen. |Hugo Miller |23/12/2016|
 | 8.0.007    | Theme: Instalación de Listable (Padre) e instalación y activación de Listable (Hijo/Child). Incluye "Activación para la red". |Hugo Miller |23/12/2016|
 | 8.0.006    | Usuarios: Hugo y soporte ya son Súper Administradores, pero aún tienen que ser dados de alta como usuarios Administradores de www.lifemycar.com y www.tartiere.lifemycar.com. |José Manuel|23/12/2016|
