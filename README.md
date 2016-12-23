@@ -1,15 +1,17 @@
 <p align="left">
 <img src="https://s28.postimg.org/ux8l1tv6l/imagengit.png">
 </p>
-### **LifeMyCar.com - READ ME FIRST**
+###_Área de administración de los sitios_
+Docuementos vínculados con el desarrollo e implementación del sitio "Lifemycar".
 
-_Relativo al proceso de desarrollo de LifeMyCar.com_
-
-
-
-
-
-
-| Versión |Cambios y/o evoluciones |Autor|Fecha|
+| Documento  |Contenido |Dominio|
 |:------------- |:---------------|:---------------|:---------------|
-| 0.0.001    | Relación de documentos que detallan la creación del sitio web https://www.lifemycar.com</br></br>- Log-LifeMycar: Indicaciones del proceso de construcción de la versión 6 de la web.</br>- Bugs-LifeMyCar: Bugs pendientes de depurar durante el proceso de desarrollo.</br>|Hugo Miller / José Manuel|7/12/2016|
+| Log-admin.md     |  Implementación de Servicio de SuperAdministrador.|Admin|
+| Bugs-admin.md    |  Bugs de Servicio de SuperAdministrador.|Admin|
+| Log-Tartiere.md     |  Implementación del sitio Grupo Tartiere.|tartiere.lifemycar.com|
+| Bugs-Tartiere.md    |  Bugs del sitio Grupo Tartiere.|tartiere.lifemycar.com|
+| Log-LifeMycar.md     |  Implementación del sitio MATRIZ.|www.lifemycar.com|
+| Bugs-LifeMyCar.md    |  Bugs del sitio MATRIZ.|www.lifemycar.com|
+
+
+
