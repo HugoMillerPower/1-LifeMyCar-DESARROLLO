@@ -12,6 +12,7 @@ _Relativo al proceso de implementación del servicio de Administración de sitio
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
+| 9.0.001    | Nueva instalación de WordPress:</br></br>- <strong>NO Habilitar Multisite (WPMU)</strong></br>- El nombre del primer usuario no debe ser el de uno de los Administradores, ya que se va a acabar borrando en función de 6.0.067 |Hugo Miller|26/12/2016|
 | 8.0.011   | Plugin: Enhanced Media Library 2.3.6 y "Activación para la Red". |Hugo Miller |23/12/2016|
 | 8.0.010   | Plugin: Instalación de Akismet 3.2. y "Activación para la Red". |Hugo Miller |23/12/2016|
 | 8.0.009    | Plugin: Instalación y activación de IgniteUp 3.2. |Hugo Miller |23/12/2016|
