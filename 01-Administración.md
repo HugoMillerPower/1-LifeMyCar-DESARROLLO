@@ -12,6 +12,7 @@ _Relativo al proceso de implementación del servicio de Administración de sitio
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
+| 10.0.022     | LifeMyCar: Theme: Borramos el theme 2017 (ya podemos hacerlo porque no está activo en ninguno de los subdominios). No hace falta borrarlo en cada subdominio, con hacerlo en el dominio Padre es suficiente. |Hugo Miller|27/12/2016|
 | 10.0.021     | Pruebas: Theme: Activamos Listable <strong>Hijo/Child</strong></br> NOTA: obsérvese la casi repetición de los pasos 10 a 13 en los pasos 14 a 17 y en 18 a 21. Es decir, si tuviésemos que añadir un tercer subdominio, los themes Listable (Padre y Child) ya estarían disponibles para su activación, e igualmente los plugins instalados y activos en el dominio Padre. |Hugo Miller|27/12/2016|
 | 10.0.020     | Pruebas: Apariencia: Personalizar: Theme options: Demo Data: Import Demo Data |Hugo Miller|27/12/2016|
 | 10.0.019     | Pruebas: Plugin: Activación de Plugins asociados al Theme Listable, propuestos una vez que está activado:</br></br>- Customify 1.3.1</br>- PixTypes 1.4.4</br>- WP Job Manager 1.25.2</br>- Category Icon 0.6.0</br>- Comments Ratings 1.1.5</br>- Login with Ajax 3.1.6</br>- Nav Menu Roles 1.8.6</br>- WooCommerce 2.6.10</br></br> NOTA: estos Plugins sólo hemos tenido que activarlos, no instalarlos y activarlos. ¿Por qué? Porque ya estaban instalados en el dominio padre LifeMyCar. |Hugo Miller|27/12/2016|
