@@ -12,6 +12,7 @@ _Relativo al proceso de implementación del servicio de Administración de sitio
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
+| 10.0.010     | Plugin: Instalación y activación de Plugins asociados al Theme Listable (Hijo/Child), propuestos una vez que está activado:</br></br>- Customify 1.3.1</br>- PixTypes 1.4.4</br>- WP Job Manager 1.25.2</br>- Category Icon 0.6.0</br>- Comments Ratings 1.1.5</br>- Login with Ajax 3.1.6</br>- Nav Menu Roles 1.8.6</br>- WooCommerce 2.6.10 |Hugo Miller|27/12/2016|
 | 10.0.009    | Theme: Borrado de los themes que no se van a usar: 2015, 2016... .</br>NOTA: El theme 2017 no se puede borrar aún porque es el theme activo en alguno de los subdominios.  |Hugo Miller|27/12/2016|
 | 10.0.008    | Theme: Instalación y <strong>activación para la red</strong> del theme Listable (Hijo/Child).</br>NOTA: así se anula el paso 10.0.007, pero tiene que ser así porque si no , cuando importemos el Demo Content dara un error de PHP.  |Hugo Miller|27/12/2016|
 | 10.0.007    | Theme: Instalación y <strong>activación para la red</strong> del theme Listable (Padre). |Hugo Miller|27/12/2016|
