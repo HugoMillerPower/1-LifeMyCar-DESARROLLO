@@ -17,7 +17,9 @@ _Relativo al proceso de implementación del servicio del Grupo Tartiere_
 | 8.02.000    | Inicio. El .02 se debe a que se trata del sitio nº 2|Hugo Miller|23/12/2016|
 
 
+_Bugs_
+
 | # | Descripción  |Autor|Fecha|
 |:------------- |:------------- |:---------------|:---------------|
 |001| Incio (Sin Bugs)|Hugo Miller|20/12/2016|
-
+ 
