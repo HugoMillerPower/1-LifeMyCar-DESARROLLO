@@ -26,7 +26,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 | 6.0.128    | Problema solucionado (ver 6.0.121): Los consejos del servicio de soporte de Hide My WP no han sido efectivos. Finalmente se ha resuelto modificando el archivo .htaccess, eliminando las líneas añadidas en 6.0.068. De este modo, .htaccess solamente tiene las modificaciones hechas por Hide My WP más las añadidas en 6.0.114. |José Manuel|20/12/2016|
 | 6.0.127    | Apariencia: CSS retocado para colores de azul el icono de notificaciones (contenedor de campana) de la página principal. |Hugo Miller|19/12/2016|
 | 6.0.126    | Apariencia: CSS retocado para colores de azul los iconos del menú social al pasar el ratón sobre ellos Queda pendiente ver el tipo de azul. |Hugo Miller|19/12/2016|
-| 6.0.125    | Apariencia: CSS retocado para acercar menú legal a Footer. Quizs haya que retocar las distancias posteriormente cuando ya estén los menús hechos. |Hugo Miller|19/12/2016|
+| 6.0.125    | Apariencia: CSS retocado para acercar menú legal a Footer. Quizás haya que retocar las distancias posteriormente cuando ya estén los menús hechos. |Hugo Miller|19/12/2016|
 | 6.0.124    | Apariencia: CSS retocado para que las Marcas (iconos) del Widget "marcas" del HomePage sea azules al pasar el ratón sobre ellas.|Hugo Miller|19/12/2016|
 | 6.0.123    | Apariencia: CSS retocado para que las Categorías (iconos) del HomePage sea azules al pasar el ratón sobre ellas.|Hugo Miller|19/12/2016|
 | 6.0.122    | Páginas: Creación de Páginas: "Aviso Legal", "Sobre Nosotros", "Regulación". Siguiendo patrón de Social Car. Posteriormente se asignan dichas páginas al "Menú legal"|Hugo Miller|19/12/2016|
@@ -34,7 +34,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 | 6.0.120    | Plugin: Hide My WP: Actualización oficial a las versiones oficiales Hide My WP 5.5 y 5.5.1.|José Manuel|18/12/2016|
 | 6.0.119    | Plugin: Hide My WP 5.1.2: Desinstalación de la versión torrent, compra de la versión oficial, instalación, activación y configuración básica:</br>- IDS Firewall: Blocked Countries Code: Rusia (RU; hijos de Putin), Indonesia (ID) y Ucrania (UA).|José Manuel|18/12/2016|
 | 6.0.118    | Iconos: Asociar iconos mediante opción "select icon" en "Menú legal".|Hugo Miller|18/12/2016|
-| 6.0.117    | Menú: Creación de "Menú legal" y ubicación provisional en el Area Footer mediante el widget "Menu personalizado".|Hugo Miller|18/12/2016|
+| 6.0.117    | Menú: Creación de "Menú legal" y ubicación provisional en el Footer Area mediante el widget "Menu personalizado".|Hugo Miller|18/12/2016|
 | 6.0.116    | Páginas: Creación de páginas de "Contacto" y "Política de privacidad".|Hugo Miller|18/12/2016|
 | 6.0.115    | Google API KEY: Generada en el entorno de Google Developers de tuttopiasoftware@gmail.com. Almacenada en Google Drive.|Hugo Miller|18/12/2016|
 | 6.0.114    | Seguridad: edición el archivo .htaccess para evitar el acceso a la web desde Rusia, ya que parece que no es eficaz el bloqueo de todo un país desde Hide My WP/IDS Firewall/Blocked Coutries Code. Se siguen las indicaciones y datos obtenidos en las siguientes páginas:</br></br>- https://boluda.com/tutorial/bloquear-el-spam-en-tu-web/</br>- https://www.ip2location.com/blockvisitorsbycountry.aspx</br></br>- NOTA: En caso de preferir un Plugin para que haga esta tarea, el recomendado por las webs anteriores es IP2Location Country Blocker.|José Manuel|18/12/2016|
@@ -62,7 +62,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 | 6.0.092    | Listings: Condiciones de uso: Añadir 2: "Mascotas permitidas" y "Permite fumar".|José Manuel|16/12/2016|
 | 6.0.091    | Category Icon: condiciones_uso (marcar).|José Manuel|16/12/2016|
 | 6.0.090    | Plugin: CPT UI (Custom Post Type UI): Add/Edit Taxonomies: Añadir "Condiciones de uso" (vinculada en principio sólo a Listings -se puede vincular también a Productos-).|José Manuel|16/12/2016|
-| 6.0.089   | Footer: Eliminación de textos comerciales de Listable en el footer. Para ello, se eliminan lineas de código de footer.php y se sube el nuevo archivo (modificado) a la misma ruta en el que se encontraba el footer original, pero ahora dentro de la carpeta correspondiente al tema "listable-child".|Hugo Miller|16/12/2016|
+| 6.0.089   | Footer: Eliminación de textos comerciales de Listable en el footer. Para ello, se eliminan lineas de código de footer.php y se sube el nuevo archivo (modificado) a la misma ruta en el que se encontraba el footer original, pero ahora dentro de la carpeta correspondiente al theme Listable Child.|Hugo Miller|16/12/2016|
 | 6.0.088   | Tema: Activación de Child y Redefinición de CSS.|Hugo Miller|16/12/2016|
 | 6.0.087   | Apariencia: Subtexto Página Principal (Bajo el Título).|Hugo Miller|16/12/2016|
 | 6.0.086   | Widgets: Personalización de textos principales y secundarios.|Hugo Miller|16/12/2016|
