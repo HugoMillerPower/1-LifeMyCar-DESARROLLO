@@ -12,7 +12,8 @@ _Relativo al proceso de implementación del servicio de Administración de sitio
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
-| 10.0.008    | Theme: Instalación y <strong>activación para la red</strong> del theme Listable (Hijo/Child). |Hugo Miller|27/12/2016|
+| 10.0.009    | Theme: Borrado de los themes que no se van a usar: 2015, 2016... .</br>NOTA: El theme 2017 no se puede borrar aún porque es el theme activo en alguno de los subdominios.  |Hugo Miller|27/12/2016|
+| 10.0.008    | Theme: Instalación y <strong>activación para la red</strong> del theme Listable (Hijo/Child).</br>NOTA: así se anula el paso 10.0.007, pero tiene que ser así porque si no , cuando importemos el Demo Content dara un error de PHP.  |Hugo Miller|27/12/2016|
 | 10.0.007    | Theme: Instalación y <strong>activación para la red</strong> del theme Listable (Padre). |Hugo Miller|27/12/2016|
 | 10.0.006   | Usuarios: Entrar como Administrador en cada subdominio y nombrar Administrador al resto de usuarios. |Hugo Miller |27/12/2016| 
 | 10.0.005   | Sitios: Creación de los sitios (Child) "tartiere.lifemycar.com" y "pruebas.lifemycar.com", además del sitio (Parent) "www.lifemycar.com". |Hugo Miller |27/12/2016| 
