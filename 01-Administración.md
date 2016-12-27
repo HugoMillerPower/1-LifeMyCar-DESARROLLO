@@ -12,6 +12,8 @@ _Relativo al proceso de implementación del servicio de Administración de sitio
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
+| 10.001.XXX    |  |Hugo Miller|27/12/2016|
+| 10.001.033    |  |Hugo Miller|27/12/2016|
 | 10.001.032    | Administrador de la red: Code Snippets: Añadir nuevo: Botón de "Back to parent" activado por defecto. => Network activate => Se almacena en formato xml en la carpeta Google Drive/01-TRABAJOS/2-APPs_Services/2.02-LifeMyCar/16-Snippets y PHPs. |Hugo Miller|27/12/2016|
 | 10.001.031    | Administrador de la red: Plugin: Instalación y activación para la red de ThreeWP Broadcast 35.1. Permite intercambios entre sitios, incluido intercambios de CPT. |Hugo Miller|27/12/2016|
 | 10.001.030    | Administrador de la red: Plugin: Instalación y activación para la red de Network Shared Media 0.11. Añade la opción de origen "Medios Compartidos de Red" cuando se quiere insertar una foto, etc.</br> NOTA: sólo es útil cuano tengamos la opción "Insertar" en pantalla. Si por ejemplo cambiamos un fondo en una página, este plugin no nos servirá. Es decir, siguiendo econ el ejemplo del fondo, tendríamos que subirlo a la Biblioteca de medios tantas veces como dominios tengamos. |Hugo Miller|27/12/2016|
