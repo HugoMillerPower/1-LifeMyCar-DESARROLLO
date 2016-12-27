@@ -17,7 +17,7 @@ _Relativo al proceso de implementación del servicio de Administración de sitio
 | 9.0.011    | Versión cancelada. |Hugo Miller|27/12/2016|
 | 9.0.010    | Plugin: Instalación y activación para la red de Code Snippets 2.8.0. |Hugo Miller|27/12/2016|
 | 9.0.009    | Plugin: Borrado de JetPack (por incompatibilidad con FacetWP). |Hugo Miller|26/12/2016|
-| 9.0.008   | Plugin: Akismet: Introducción de API (en los 3 sitios)</br> |Hugo Miller|26/12/2016|
+| 9.0.008   | Plugin: Instalación y activación de Akismet 3.2. Introducción de API (en los 3 sitios)</br> |Hugo Miller|26/12/2016|
 | 9.0.007   | Plugin: IgniteUp 3.2: Configuración CSS</br> |Hugo Miller|26/12/2016|
 | 9.0.006    | Plugin: Instalación y activación de Plugins asociados al Theme Listable:</br></br>- Customify 1.3.1</br>- PixTypes 1.4.4</br>- WP Job Manager 1.25.2</br>- Category Icon 0.6.0</br>- Comments Ratings 1.1.5</br>- Login with Ajax 3.1.6</br>- Nav Menu Roles 1.8.6</br>- WooCommerce 2.6.10 |Hugo Miller|26/12/2016|
 | 9.0.005   | Usuarios: Creación de los usuarios "Hugo", "José Manuel", "Soporte", todos ellos con perfiles de "SuperAdministradores". |Hugo Miller |26/12/2016|
