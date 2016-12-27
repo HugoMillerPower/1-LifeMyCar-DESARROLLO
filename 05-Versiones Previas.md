@@ -62,7 +62,7 @@ _Relativo al proceso de Desarrollo de LifeMyCar.com y su control de versiones_
 | 6.0.092    | Listings: Condiciones de uso: Añadir 2: "Mascotas permitidas" y "Permite fumar".|José Manuel|16/12/2016|
 | 6.0.091    | Category Icon: condiciones_uso (marcar).|José Manuel|16/12/2016|
 | 6.0.090    | Plugin: CPT UI (Custom Post Type UI): Add/Edit Taxonomies: Añadir "Condiciones de uso" (vinculada en principio sólo a Listings -se puede vincular también a Productos-).|José Manuel|16/12/2016|
-| 6.0.089   | Footer: Eliminación de textos comerciales de Listable en el footer. Para ello, se eliminan lineas de código de footer.php y se sube el nuevo archivo (modificado) a la misma ruta en el que se encontraba el footer original, pero ahora dentro de la carpeta correspondiente al theme Listable Child.|Hugo Miller|16/12/2016|
+| 6.0.089   | Footer: Eliminación de textos comerciales de Listable en el footer. Para ello, se eliminan lineas de código de footer.php y se sube el nuevo archivo (modificado) a la misma ruta en el que se encontraba el footer original, pero ahora dentro de la carpeta correspondiente al theme Listable Hijo/Child.|Hugo Miller|16/12/2016|
 | 6.0.088   | Tema: Activación de Child y Redefinición de CSS.|Hugo Miller|16/12/2016|
 | 6.0.087   | Apariencia: Subtexto Página Principal (Bajo el Título).|Hugo Miller|16/12/2016|
 | 6.0.086   | Widgets: Personalización de textos principales y secundarios.|Hugo Miller|16/12/2016|
