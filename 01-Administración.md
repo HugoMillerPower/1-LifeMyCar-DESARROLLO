@@ -12,7 +12,7 @@ _Relativo al proceso de implementación del servicio de Administración de sitio
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
-| 10.001.XXX    |  |Hugo Miller|27/12/2016|
+| 10.001.XXX    | ∞ |Hugo Miller|27/12/2016|
 | 10.001.033    | Administrador de la red: PLugin: Instalación y activación para la red de los plugins relacionados con WP Job Manager 1.25.2. Ojo, el orden de instalación es importante en el caso de los 3 últimos plugins:</br></br>- WP Job Manager Field Editor (Editor de WP trabajo administrador campo) 1.6.4</br>- WP Job Manager - Bookmarks 1.2.1</br>- WP Job Manager - Job Tags 1.3.8</br>- WP Job Manager - Predefined Regions (WP Job Manager - Locations) 1.11.0</br>- WP Job Manager - Products 1.4.0</br>- WP All Import Pro 4.4.1 (tras actualizarlo, algo que pensábamos que no se podía)</br>- WP All Export Pro 1.4.3 (tras actualizarlo, algo que pensábamos que no se podía)</br>- WP All Import - WP Job Manager Add-On 1.0.5 (tras actualizarlo, algo que pensábamos que no se podía)|Hugo Miller|27/12/2016|
 | 10.001.032    | Administrador de la red: Code Snippets: Añadir nuevo: Botón de "Back to parent" activado por defecto. => Network activate => Se almacena en formato xml en la carpeta Google Drive/01-TRABAJOS/2-APPs_Services/2.02-LifeMyCar/16-Snippets y PHPs. |Hugo Miller|27/12/2016|
 | 10.001.031    | Administrador de la red: Plugin: Instalación y activación para la red de ThreeWP Broadcast 35.1. Permite intercambios entre sitios, incluido intercambios de CPT. |Hugo Miller|27/12/2016|
