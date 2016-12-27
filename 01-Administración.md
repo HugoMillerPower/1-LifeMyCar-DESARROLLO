@@ -12,6 +12,7 @@ _Relativo al proceso de implementación del servicio de Administración de sitio
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
+| 10.001.028    | Administrador de la red: Plugin: Instalación y activación para la red de Code Snippets 2.8.0. |Hugo Miller|27/12/2016|
 | 10.001.027    | Administrador de la red: Footer: Eliminación de textos comerciales de Listable en el footer. Para ello, se eliminan lineas de código de footer.php y se sube el nuevo archivo (modificado) a la misma ruta en el que se encontraba el footer original, pero ahora dentro de la carpeta correspondiente al theme Listable Child. |Hugo Miller|27/12/2016|
 | 10.001.026    | LifeMyCar: Plugin: Configuración de Maintenance 3.2:</br></br>- Descripción: ¡Pronto estaremos en la carretera!</br>- Logo: Google Drive/01-TRABAJOS/2-APPs_Services/2.02-LifeMyCar/04-Imagen Gráfica/Usado en V10/Modo de Mantenimiento/logo.png</br>- Fondo: Google Drive/01-TRABAJOS/2-APPs_Services/2.02-LifeMyCar/04-Imagen Gráfica/Usado en V10/Modo de Mantenimiento/FondoOffline.jpg</br>- CSS Personalizado: Google Drive/01-TRABAJOS/2-APPs_Services/2.02-LifeMyCar/04-Imagen Gráfica/Usado en V10/Modo de Mantenimiento/Css de Mantenimiento.css|Hugo Miller|27/12/2016|
 | 10.001.025    | Administrador de la red: Plugin: Instalación y activación para la red de Maintenance 3.2.|Hugo Miller|27/12/2016|
