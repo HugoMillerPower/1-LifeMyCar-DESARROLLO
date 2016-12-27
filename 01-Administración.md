@@ -12,7 +12,7 @@ _Relativo al proceso de implementación del servicio de Administración de sitio
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
-| 10.001.030    | Administrador de la red: Plugin: Instalación y activación para la red de Network Shared Media 0.11. |Hugo Miller|27/12/2016|
+| 10.001.030    | Administrador de la red: Plugin: Instalación y activación para la red de Network Shared Media 0.11. Añade la opción de origen "Medios Compartidos de Red" cuando se quiere insertar una foto, etc.|Hugo Miller|27/12/2016|
 | 10.001.029    | Administrador de la red: Plugin: Instalación y activación para la red de Enhanced Media Library 2.3.6. Permite que en la pestaña Medios aparezca la opción Categorías de medios.</br> NOTA: en estos momentos seguimos teniendo un inconveniente, y es que cada vez que añadamos un subdominio Child, deberíamos de volver a subir todos los contenidos de la Galería de medios desde la cuenta del subdominio. Lo ideal sería encontrar un plugin que permitiese compartir medios de la galera entre subdominios. |Hugo Miller|27/12/2016|
 | 10.001.028    | Administrador de la red: Plugin: Instalación y activación para la red de Code Snippets 2.8.0. |Hugo Miller|27/12/2016|
 | 10.001.027    | Administrador de la red: Footer: Eliminación de textos comerciales de Listable en el footer. Para ello, se eliminan lineas de código de footer.php y se sube el nuevo archivo (modificado) a la misma ruta en el que se encontraba el footer original, pero ahora dentro de la carpeta correspondiente al theme Listable Hijo/Child. |Hugo Miller|27/12/2016|
