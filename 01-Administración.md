@@ -13,7 +13,7 @@ _Relativo al proceso de implementación del servicio de Administración de sitio
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
 | 10.001.XXX    | ∞ |Hugo Miller|27/12/2016|
-| 10.001.037    | Administrador de la red: Code Snippets: Creación y activación de Snippets correspondientes a retoques en el CSS de la Página Principal. |Hugo Miller|27/12/2016|
+| 10.001.037    | ∞ |Hugo Miller|27/12/2016|
 | 10.001.036    | Administrador de la red: Plugins: Instalación y activación para red de "MU Featured Image" 1.3.4. Permite cambiar la "Featured Image" en un multisite, prmitiendo así conectar este campo con Network Shared Media (otro plugin). |Hugo Miller|27/12/2016|
 | 10.001.035    | Upload de medios (imagens y videos) correspondientes a las categorias de Medios: "Blog", "Categorias", "Coches en alquiler", "Equipamientos", "Explicativos", "Fondos de la Página Principal", "Logotipos", "Marcas", "Modo de Mantenimiento", "Videos". |Hugo Miller|27/12/2016|
 | 10.001.034    | Plugin: Instalación y activación para red de "Enhanced Media Library" 2.3.6 y creación de Categorias de Medios: "Blog", "Categorias", "Coches en alquiler", "Equipamientos", "Explicativos", "Fondos de la Página Principal", "Logotipos", "Marcas", "Modo de Mantenimiento", "Videos". |Hugo Miller|27/12/2016|
