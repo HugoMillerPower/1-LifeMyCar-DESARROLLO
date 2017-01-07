@@ -10,7 +10,8 @@
 | 03-Grupo Tartiere.md     |  Implementación del sitio Grupo Tartiere.|tartiere.lifemycar.com|
 | 07-Versiones Previas.md   |  Desarrollo de versiones previas V6 y V7 (MonoSite)|www.lifemycar.com|
 
-
-
-
-
+###Hitos Previstos.
+| Nº  |Descripción |Fecha|
+|:------------- |:---------------|:---------------|:---------------|
+| 01    |  Implementación de Servicio de SuperAdministrador.|Admin|
+| 01    |  Implementación de Servicio de SuperAdministrador.|Admin|
