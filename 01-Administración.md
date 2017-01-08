@@ -13,6 +13,8 @@ _Relativo al proceso de implementación del servicio de Administración de sitio
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
 | 10.001.XXX    | ∞ |Hugo Miller|28/12/2016|
+| 10.001.041    | Instalación y activación para la red de ThreeWP Broadcast Utilities Pack 35.1. |José Manuel|8/1/2017|
+| 10.001.040    | Administrador de la red: Plugin: Actualización de ThreeWP Broadcast 35.3. |José Manuel|8/1/2017|
 | 10.001.039    | Administrador de la red: Plugin: Instalación y activación para la red de ThreeWP Broadcast Control Pack 35.2.|José Manuel|28/12/2016|
 | 10.001.038    | LifeMyCar: Plugin: Custom CSS: Añado CSS (Versión 01) => Se almacena en formato xml en la carpeta Google Drive/01-TRABAJOS/2-APPs_Services/2.02-LifeMyCar/14-CSS/LifeMyCar (Versión 01).css.|Hugo Miller|28/12/2016|
 | 10.001.037    | Administrador de la red: Plugin: Instalación y activación para la red de Simple Custom CSS 3.3 |Hugo Miller|28/12/2016|
