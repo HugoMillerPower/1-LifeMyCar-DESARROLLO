@@ -1,7 +1,7 @@
 <p align="left">
 <img src="https://s28.postimg.org/ux8l1tv6l/imagengit.png">
 </p>
-### **0.1-Administración.md**
+### **0.1-Administración de la red.md**
 
 _Relativo al proceso de implementación del servicio de Administración de sitios_
 
