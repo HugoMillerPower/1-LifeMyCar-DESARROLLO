@@ -3,7 +3,7 @@
 </p>
 ### **0.1-Administración de la red.md**
 
-_Relativo al proceso de implementación del servicio de Administración de sitios_
+_Relativo al proceso de implementación del servicio de Administración de la red de sitios_
 
 
 
