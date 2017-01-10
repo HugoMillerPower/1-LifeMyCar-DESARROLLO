@@ -12,6 +12,7 @@ _Relativo al proceso de implementación del servicio del Grupo Tartiere_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------
+| 10.003.046    | Apariencia. Subimos logos (naranja el de arriba) y (azul el de abajo) de la librería de medios (filtro "logotipos"), también subimos del mismo lugar el Favicon. |Hugo Miller|10/1/2017|
 | 10.003.045    | Recibimos un Broadcast desde LifeMyCar (ver 10.001.045).|Hugo Miller|10/1/2017|
 | 10.003.039    | Plugin: SiteOrigin CSS 1.1.2: Añado CSS (Versión 01) => Se almacena en formato xml en la carpeta Google Drive/01-TRABAJOS/2-APPs_Services/2.02-LifeMyCar/14-CSS/LifeMyCar (Versión 01).css.|Hugo Miller|28/12/2016|
 | 10.003.036    | Medios: Upload de medios (imágenes y vídeos) correspondientes a las categorías de Medios (ETIQUETADO): "Blog", "Categorías", "Coches en alquiler", "Equipamientos", "Explicativos", "Fondos de la Página Principal", "Logotipos", "Marcas", "Modo de Mantenimiento", "Vídeos". Previo borrado de las imagenes de Listable que se alojan en la Librera de Medios después de la carga del material de DEMO de Listable. Para Subir los videos (y ya que exceden del peso máx por defecto que es de 1 Mb hay que modificar en SITIOS->AJUSTES->Tamaño máximo permitido 6 Mb. Y sin modificar ese ajuste, se pueden subir "desde el navegador" esto es "seleccionando uno a uno y dando a subir" en lugar de arrastrándolos a la zona punteada.|Hugo Miller|27/12/2016|
