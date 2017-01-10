@@ -21,7 +21,7 @@ _Relativo al proceso de implementación del servicio del Grupo Tartiere_
 | 10.002.014     | Theme: Activamos Listable <strong>Padre</strong>. |Hugo Miller|27/12/2016|
 | 10.002.001    | Inicio. El .002 se debe a que se trata del sitio nº 2. |Hugo Miller|27/12/2016|
 | 8.002.004    | Versión cancelada.|Hugo Miller|23/12/2016|
-| 8.002.003    | Plugin: Instalación y activación de IgniteUp 3.2.|Hugo Miller|23/12/2016|
+| 8.002.003    | Plugin: Instalación y activación de IgniteUp 3.2. DEPRECADO. Ahora Utilizamos MAINTENANCE. Ver Instalción en el Sitio LifeMyCar.|Hugo Miller|23/12/2016|
 | 8.002.002    | Theme: Instalación de Listable (Padre) e instalación y activación de Listable (Hijo/Child).|Hugo Miller|23/12/2016|
 | 8.002.001    | Inicio. El .002 se debe a que se trata del sitio nº 2.|Hugo Miller|23/12/2016|
 
