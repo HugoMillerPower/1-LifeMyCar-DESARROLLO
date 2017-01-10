@@ -12,6 +12,7 @@ _Relativo al proceso de implementación del servicio del Grupo Tartiere_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------
+| 10.003.052   | Sinnipet. Definición de colores distintos para cada site en el back-end. Spnippet guardado en Google Drive/01-TRABAJOS/2-APPs_Services/2.02-LifeMyCar/16-Snnipets y PHP. Activación.|Hugo Miller|10/1/2017|
 | 10.003.046    | Apariencia. Subimos logos (naranja el de arriba) y (azul el de abajo) de la librería de medios (filtro "logotipos"), también subimos del mismo lugar el Favicon. |Hugo Miller|10/1/2017|
 | 10.003.045    | Recibimos un Broadcast desde LifeMyCar (ver 10.001.045).|Hugo Miller|10/1/2017|
 | 10.003.039    | Plugin: SiteOrigin CSS 1.1.2: Añado CSS (Versión 01) => Se almacena en formato xml en la carpeta Google Drive/01-TRABAJOS/2-APPs_Services/2.02-LifeMyCar/14-CSS/LifeMyCar (Versión 01).css.|Hugo Miller|28/12/2016|
