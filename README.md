@@ -8,7 +8,8 @@
 | 01-Administracion.md     |  Implementación de Servicio de SuperAdministrador.|Admin|
 | 02-LifeMycar.md     |  Implementación del sitio MATRIZ.|www.lifemycar.com|
 | 03-Grupo Tartiere.md     |  Implementación del sitio Grupo Tartiere.|tartiere.lifemycar.com|
-| 07-Versiones Previas.md   |  Desarrollo de versiones previas V6 y V7 (MonoSite)|www.lifemycar.com|
+| 04-Pruebas.md     |  Implementación del sitio Pruebas.|tartiere.lifemycar.com|
+| 05-Versiones Previas.md   |  Desarrollo de versiones previas V6 y V7 (MonoSite)|www.lifemycar.com|
 
 ###Hitos Previstos.
 Versión plataforma multisite: Los hitos deben alcanzarse tanto para el sitio parent como para los subdominios child.
