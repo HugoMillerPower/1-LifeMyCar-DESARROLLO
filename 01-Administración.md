@@ -13,6 +13,7 @@ _Relativo al proceso de implementación del servicio de Administración de la re
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
 | 10.001.XXX    | ∞ |Hugo Miller|8/1/2017|
+| 10.001.046    | ∞ |Hugo Miller|8/1/2017|
 | 10.001.045    | LifeMyCar: Plugin: Broadcast: Sync Taxonomies:</br></br>- Taxonomies = Multimedia categora de medios</br>- Blogs = Grupo Tartiere y Pruebas.</br></br>Buscamos clonar en los sitios child lo conseguido en el paso 035.|Hugo Miller|10/1/2017|
 | 10.001.044    | LifeMyCar: Plugin: Broadcast: Add-ons:</br></br>- Utilities pack license: introducir License key</br>- Available add-ons: Activar Menus y Sync Taxonomies |José Manuel|8/1/2017|
 | 10.001.043    | Administrador de la red: Plugin: Instalación y activación para la red de ThreeWP Broadcast Utilities Pack 35.1. |José Manuel|8/1/2017|
