@@ -13,7 +13,7 @@ _Relativo al proceso de implementación del servicio de Administración de la re
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
 | 10.001.XXX    | ∞ |Hugo Miller|10/1/2017|
-| 10.001.053   | LifeMyCar: Google Analytics: Administrador, Crear Propiedad: Alta de cuenta asociada al multisite. Usamos de prifijo de cueta la nomenclatura de carpetas seguida en DRIVE. 2.02.01-www.lifemycar.com |Hugo Miller|10/1/2017|
+| 10.001.053   | LifeMyCar: Google Analytics (GOOGLE): Administrador, Crear Propiedad: Alta de cuenta asociada al multisite. Usamos de prifijo de cueta la nomenclatura de carpetas seguida en DRIVE. 2.02.01-www.lifemycar.com |Hugo Miller|10/1/2017|
 | 10.001.052   | Administrador de la red: Sinnipet. Definición de colores distintos para cada site en el back-end. Spnippet guardado en Google Drive/01-TRABAJOS/2-APPs_Services/2.02-LifeMyCar/16-Snnipets y PHP. Activación para la red.|Hugo Miller|10/1/2017|
 | 10.001.051    | Administrador de la red: Plugin: Google Analytics Dashboard 4.9.5. Activació para la red. Ajustes Generales del Plugin: utilizar una única cuenta de Google Analytics para toda la red.  Codigo de Acceso:4/I-U8V0AN2Lcoc11DyZeW2JuC3iRKwSnimJ9Hvs18Nb4|Hugo Miller|10/1/2017|
 | 10.001.050    | Administrador de la red: Plugin: Instalación y activación para la red de Multisite Enhancements 1.3.7. |Hugo Miller|10/1/2017|
