@@ -14,8 +14,8 @@ _Relativo al proceso de implementación del servicio del Grupo Tartiere_
 |:------------- |:---------------|:---------------|:---------------
 | 10.002.058    | Plugin: Legacy - White Label WordPress Admin Theme 5.1: Activación. |Hugo Miller|11/1/2017|
 | 10.002.055    | Custom CSS: Añado líneas al CSS para eliminar publicidad de Google Analytics.|Hugo Miller|11/1/2017|
-| 10.002.053   | Google Analytics (EN GOOGLE): Administrador, Crear Propiedad: Alta de cuenta asociada al multisite. Usamos de prifijo de cueta la nomenclatura de carpetas seguida en DRIVE. 2.02.02-tariere.lifemycar.com |Hugo Miller|11/1/2017|
-| 10.002.052   | Sinnipet. Definición de colores distintos para cada site en el back-end. Spnippet guardado en Google Drive/01-TRABAJOS/2-APPs_Services/2.02-LifeMyCar/16-Snnipets y PHP. Activación.|Hugo Miller|10/1/2017|
+| 10.002.053   | Google Analytics (GOOGLE): Administrador, Crear Propiedad: Alta de cuenta asociada al multisite. Usamos de prefijo de cuenta la nomenclatura de carpetas seguida en DRIVE. 2.02.01-www.lifemycar.com . |Hugo Miller|11/1/2017|
+| 10.002.052   | Snnipet. Definición de colores distintos para cada site en el back-end. Snippet guardado en Google Drive/01-TRABAJOS/2-APPs_Services/2.02-LifeMyCar/16-Snnipets y PHP. Activación para la red.|Hugo Miller|10/1/2017|
 | 10.002.046    | Apariencia. Subimos logos (naranja el de arriba) y (azul el de abajo) de la librería de medios (filtro "logotipos"), también subimos del mismo lugar el Favicon. |Hugo Miller|10/1/2017|
 | 10.002.045    | Recibimos un Broadcast desde LifeMyCar (ver 10.001.045).|Hugo Miller|10/1/2017|
 | 10.002.039    | Plugin: SiteOrigin CSS 1.1.2: Añado CSS (Versión 01) => Se almacena en formato xml en la carpeta Google Drive/01-TRABAJOS/2-APPs_Services/2.02-LifeMyCar/14-CSS/LifeMyCar (Versión 01).css.|Hugo Miller|28/12/2016|
