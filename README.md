@@ -10,6 +10,7 @@
 | 03-Grupo Tartiere.md     |  Implementación del sitio Grupo Tartiere.|tartiere.lifemycar.com|
 | 04-Pruebas.md     |  Implementación del sitio Pruebas.|tartiere.lifemycar.com|
 | 05-Versiones Previas.md   |  Desarrollo de versiones previas V6 y V7 (MonoSite)|www.lifemycar.com|
+| 06-Bugs.md   |  Listado de Bugs pendientes de depurar.|Todos|
 
 ###Hitos Previstos.
 Versión plataforma multisite: Los hitos deben alcanzarse tanto para el sitio parent como para los subdominios child.
