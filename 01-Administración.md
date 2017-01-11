@@ -14,9 +14,9 @@ _Relativo al proceso de implementación del servicio de Administración de la re
 |:------------- |:---------------|:---------------|:---------------|
 | 10.001.XXX    | ∞ |Hugo Miller|11/1/2017|
 | 10.001.058    | LifeMyCar: Plugin: Legacy - White Label WordPress Admin Theme 5.1: Activación. |Hugo Miller|11/1/2017|
-| 10.001.057    | Administrador de la red: Plugin: Instalación <strong>sin</strong> activación para la red de Legacy - White Label WordPress Admin Theme 5.1.|Hugo Miller|11/1/2017|
+| 10.001.057    | Administrador de la red: Plugin: Instalación <strong>SIN</strong> activación para la red de Legacy - White Label WordPress Admin Theme 5.1.|Hugo Miller|11/1/2017|
 | 10.001.056    | Administrador de la red: Plugin: Instalación y activación para la red de Ultimate Branding 1.8.2.|Hugo Miller|11/1/2017|
-| 10.001.055    | LifeMyCar: Custom CSS: Añado líneas al CSS para eliminar publicidad de Google Analytics.|Hugo Miller|11/1/2017|
+| 10.001.055    | LifeMyCar: Apariencia: Custom CSS (se llama así, independientemente de que tengamos instalado el plugin SiteOrigin CSS 1.1.2 y no cualquier otro plugin que se llame precisamente Custom CSS -que existen varios-): Añado líneas al CSS para eliminar (realmente ocultar) publicidad (y tutoriales) de Google Analytics.</br></br>4 NOTAS IMPORTANTES:</br></br>1- Los pasos de este GitHub en los que se indiquen retoques de CSS no hace falta repetirlos en caso de tener que empezar una nueva versión de la web desde cero. ¿Por qué? Porque bastará con importar el CSS de la página y ahí estarán ya todos los cambios aplicados.</br>2- ¿Cómo saber qué líneas hay que añadir al CSS? Empleamos la extensión de Google Chrome "Stylebot".</br></br>+ Open Stylebot: Sección "Basic" (en la parte inferior de la columna de Stylebot)</br>+ Seleccionar con el mouse el bloque de publicidad que queremos ocultar</br>+ Layout & Visibility => Hide</br>+ Cambio a la sección "Edit CSS"</br>+ Copiar en el portapapeles el código que ahí aparece</br>+ Copiar ese código en Apariencia: Custom CSS, poniendo antes un comentario explicando su función</br>3- |Hugo Miller|11/1/2017|
 | 10.001.054    | Administrador de la red: Plugin: Google Analytics Dashboard 4.9.5: Ajustes Generales:</br></br>- Configuración de la red: Activar (ON) "utilizar una única cuenta de Google Analytics para toda la red"</br>- Ajustes de Propiedades/Vistas: - Asignar a cada site su Cuenta de Google Analytics.</br>- Actualizaciones automáticas: ON</br>- Excluir seguimiento: ON|Hugo Miller|10/1/2017|
 | 10.001.053   | LifeMyCar: Google Analytics (GOOGLE): Administrador, Crear Propiedad: Alta de cuenta asociada al multisite. Usamos de prefijo de cuenta la nomenclatura de carpetas seguida en DRIVE. 2.02.01-www.lifemycar.com .|Hugo Miller|10/1/2017|
 | 10.001.052   | Administrador de la red: Snnipet. Definición de colores distintos para cada site en el back-end. Snippet guardado en Google Drive/01-TRABAJOS/2-APPs_Services/2.02-LifeMyCar/16-Snnipets y PHP. Activación para la red.|Hugo Miller|10/1/2017|
@@ -94,14 +94,3 @@ _Relativo al proceso de implementación del servicio de Administración de la re
 | 8.001.003    | Sitios: Añadir nuevo sitio:</br></br>- URL: tartiere.lifemycar.com (NOTA: Esta opción no estaría disponible sin los pasos anteriores)</br>- Título del sitio: Grupo Tartiere</br>- Correo electrónico: soporte@lifemycar.com |Hugo Miller|22/12/2016|
 | 8.001.002    | Tenemos una instalación normal de WordPress => Hay que pasarla a Multisite. Para ellos trabajaremos con un software de gestión FTP (Coda, en nuestro caso):</br></br>- Borrar el archivo public_html/wp-config-sample.php</br>- Editar (y después salvar, para que se apliquen los cambios) el archivo public_html/wp-config.php , añadiendo la línea...</br>define ('WP_ALLOW_MULTISITE', true);</br>... justo antes de la línea (ya presente en el archivo)...</br>/* That's all, stop editing! Happy blogging. */</br>NOTA: ¿Qué hemos ganado al añadir esa instrucción? Pues si vamos al Menú HERRAMIENTAS, ahora aparece una opción que antes no estaba, CONFIGURACIÓN DE LA RED.</br>- CONFIGURACIÓN DE LA RED: escogemos la opción SUBDOMINIOS</br>- CONFIGURACIÓN DE LA RED: Título de la red: Concesionarios de LifeMyCar</br>- CONFIGURACIÓN DE LA RED: Correo: soporte@lifemycar.com</br>- Seguimos las instrucciones en pantalla para editar el archivo public_html/wp-config.php , añadiendo las líneas que nos dicen justo donde nos indican.</br>- Seguimos las instrucciones en pantalla para editar el archivo .htaccess , sustituyendo todo su contenido por las líneas que nos dicen.</br>NOTA: ¿Qué hemos ganado con estos cambios? Pues que en el Menú aparece MIS SITIOS.  |Hugo Miller|22/12/2016|
 | 8.001.001    | Nueva instalación de WordPress (el .001 se debe a que se trata del sitio nº 1):</br></br>- <strong>NO Habilitar Multisite (WPMU)</strong></br>- El nombre del primer usuario no debe ser el de uno de los Administradores, ya que se va a acabar borrando en función de 6.0.067 |Hugo Miller|22/12/2016|
-
-
-_Bugs pendientes de resolver del Servicio de Administración_
-
-
-
-
-| # | Descripción  |Autor|Fecha|
-|:------------- |:------------- |:---------------|:---------------|
-|001| Inicio (Sin Bugs)|Hugo Miller|23/12/2016|
-
