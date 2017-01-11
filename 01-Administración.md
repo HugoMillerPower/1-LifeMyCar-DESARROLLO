@@ -13,6 +13,7 @@ _Relativo al proceso de implementación del servicio de Administración de la re
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
 | 10.001.XXX    | ∞ |Hugo Miller|10/1/2017|
+| 10.001.055    | LifeMyCar: Custom CSS: Añado lineas al CSS para eliminar publicidad de Google Analytics.|Hugo Miller|10/1/2017|
 | 10.001.054    | Administrador de la red: Plugin: Google Analytics Dashboard 4.9.5. Ajustes Generales del Plugin: Ajustes de Propiedades vistas - Asignar a cada site su Cuenta de Google Analytics. Actualizaciones automáticas: ON, Excluir seguimiento: ON|Hugo Miller|10/1/2017|
 | 10.001.053   | LifeMyCar: Google Analytics (GOOGLE): Administrador, Crear Propiedad: Alta de cuenta asociada al multisite. Usamos de prifijo de cueta la nomenclatura de carpetas seguida en DRIVE. 2.02.01-www.lifemycar.com |Hugo Miller|10/1/2017|
 | 10.001.052   | Administrador de la red: Sinnipet. Definición de colores distintos para cada site en el back-end. Spnippet guardado en Google Drive/01-TRABAJOS/2-APPs_Services/2.02-LifeMyCar/16-Snnipets y PHP. Activación para la red.|Hugo Miller|10/1/2017|
