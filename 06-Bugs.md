@@ -11,5 +11,5 @@ _Bugs pendientes de resolver del Servicio de Administración_
 
 | # | Descripción  |Site|Autor|Fecha|
 |:------------- |:-------------|:------------- |:---------------|:---------------|
-|001|El icono de listings de el BackEnd está sobre una elipse y no sobre un círculo|Todos|Hugo Miller|11/01/2017|
+|001|El icono de listings de el BackEnd está sobre una elipse y no sobre un círculo.|Todos|Hugo Miller|11/01/2017|
 
