@@ -12,7 +12,8 @@ _Relativo al proceso de implementación del servicio de Administración de la re
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
-| 10.001.XXX    | ∞ |Hugo Miller|10/1/2017|
+| 10.001.XXX    | ∞ |Hugo Miller|11/1/2017|
+| 10.001.058    | LifeMyCar: Plugin: Legacy - White Label WordPress Admin Theme 5.1: Activación. |Hugo Miller|11/1/2017|
 | 10.001.057    | Administrador de la red: Plugin: Instalación <strong>sin</strong> activación para la red de Legacy - White Label WordPress Admin Theme 5.1.|Hugo Miller|11/1/2017|
 | 10.001.056    | Administrador de la red: Plugin: Instalación y activación para la red de Ultimate Branding 1.8.2.|Hugo Miller|11/1/2017|
 | 10.001.055    | LifeMyCar: Custom CSS: Añado líneas al CSS para eliminar publicidad de Google Analytics.|Hugo Miller|11/1/2017|
