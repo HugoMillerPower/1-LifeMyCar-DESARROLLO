@@ -12,8 +12,8 @@ _Relativo al proceso de implementación del servicio del Grupo Tartiere_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------
-| 10.001.055    | LifeMyCar: Custom CSS: Añado lineas al CSS para eliminar publicidad de Google Analytics.|Hugo Miller|10/1/2017|
-| 10.002.053   | Google Analytics (EN GOOGLE): Administrador, Crear Propiedad: Alta de cuenta asociada al multisite. Usamos de prifijo de cueta la nomenclatura de carpetas seguida en DRIVE. 2.02.02-tariere.lifemycar.com |Hugo Miller|10/1/2017|
+| 10.002.055    | Custom CSS: Añado lineas al CSS para eliminar publicidad de Google Analytics.|Hugo Miller|11/1/2017|
+| 10.002.053   | Google Analytics (EN GOOGLE): Administrador, Crear Propiedad: Alta de cuenta asociada al multisite. Usamos de prifijo de cueta la nomenclatura de carpetas seguida en DRIVE. 2.02.02-tariere.lifemycar.com |Hugo Miller|11/1/2017|
 | 10.002.052   | Sinnipet. Definición de colores distintos para cada site en el back-end. Spnippet guardado en Google Drive/01-TRABAJOS/2-APPs_Services/2.02-LifeMyCar/16-Snnipets y PHP. Activación.|Hugo Miller|10/1/2017|
 | 10.002.046    | Apariencia. Subimos logos (naranja el de arriba) y (azul el de abajo) de la librería de medios (filtro "logotipos"), también subimos del mismo lugar el Favicon. |Hugo Miller|10/1/2017|
 | 10.002.045    | Recibimos un Broadcast desde LifeMyCar (ver 10.001.045).|Hugo Miller|10/1/2017|
