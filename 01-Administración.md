@@ -13,6 +13,7 @@ _Relativo al proceso de implementación del servicio de Administración de la re
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
 | 10.001.XXX    | ∞ |Hugo Miller|11/1/2017|
+| 10.001.063    | LifeMyCar:  Corregir el error "Registration is disabled. Please go to the general settings page in the WordPress admin and select anyone can register" que surge al instalar el Ultimate Member. Para ello, desde el Administrador de la red, Ajustes, Ajustes de la red, Ajustes de Registro, activar la función "Se pueden crear cuentas de usuario". |Hugo Miller|12/1/2017|
 | 10.001.062    | LifeMyCar: Plugin: Admin Menu Editor Pro 2.4. Reorganización de menú para recolocar "Ultimate Member" junto a Usuarios y con su perfil de color por analoga de funciones. |Hugo Miller|12/1/2017|
 | 10.001.061    | Administrador de la red: Plugin:  Instalación y activación para la red de Ultimate Member 1.3.78. |Hugo Miller|12/1/2017|
 | 10.001.060    | Administrador de la red: Plugin:  Instalación y activación para la red de Admin Menu Editor Pro 2.4.</br></br>-Se guardan los ajustes de configuración de los temas en Drive/01-TRABAJOS/2-APPs_Services/2.02-LifeMyCar/15-AJUSTES DESCARGABLES (archivo.dat). |Hugo Miller|12/1/2017|
