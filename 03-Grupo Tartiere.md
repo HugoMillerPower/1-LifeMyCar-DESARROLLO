@@ -12,7 +12,7 @@ _Relativo al proceso de implementación del servicio del Grupo Tartiere_
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------
-| 10.002.076    | Ajustes: Generales:</br></br>- Zona horaria = UTC + 1</br>- Formato de fecha = d/m/Y</br>- Formato de hora = H:i|José Manuel / Hugo Miller|12/1/2017|
+| 10.002.076    | Ajustes: Generales:</br></br>- Zona horaria = UTC + 1</br>- Formato de fecha = d/m/Y</br>- Formato de hora = H:i|Hugo Miller|12/1/2017|
 | 10.002.073    |Plugin: Ultimate Member 1.3.78: Configuración importando la URL https://www.lifemycar.com/wp-admin/admin-ajax.php?action=redux_download_options-um_options&secret=aebd4e776a7876e3925a4e4d17fcb823 .|Hugo Miller|12/1/2017|
 | 10.002.059    | Plugin: Legacy - White Label WordPress Admin Theme 5.1: Configuración:</br></br>- Importación de la configuración del sitio parent LifeMyCar</br></br>+ Según lo visto en 10.001.059, vamos en LifeMyCar a la sección Legacy Admin: Importar/Exportar: Opciones de Exportación: Copy Export URL</br>+ De vuelta en Grupo Tartiere, vamos a Legacy Admin: Importar/Exportar: Opciones de Importación: Importar desde URL</br>+ Si no importa la configuración bien al primer intento, insistir.</br></br>- Legacy Admin: Logo Settings => Quitar el logo del parent y utilizar en su lugar Google Drive/01-TRABAJOS/2-APPs_Services/2.02-LifeMyCar/04-Imagen Gráfica/Backend/Logo-BACKEND-GRUPOTARTIERE.png|Hugo Miller|11/1/2017|
 | 10.002.058    | Plugin: Legacy - White Label WordPress Admin Theme 5.1: Activación. |Hugo Miller|11/1/2017|
