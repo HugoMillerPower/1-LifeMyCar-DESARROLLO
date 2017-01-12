@@ -13,7 +13,9 @@ _Relativo al proceso de implementación del servicio de Administración de la re
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
 | 10.001.XXX    | ∞ |Hugo Miller|12/1/2017|
-| 10.001.070    | Administrador de la red: Plugin:  Instalación y activación para la red de Ultimate Memeber -Private Messages 1.1.0.|Hugo Miller|12/1/2017|
+| 10.001.072    | Administrador de la red: Plugin:  Instalación y activación para la red de Ultimate Memeber - Profile Completenedd 1.2.0|Hugo Miller|12/1/2017|
+| 10.001.071    | Administrador de la red: Plugin:  Instalación y activación para la red de Ultimate Memeber - Reviews 1.1.6|Hugo Miller|12/1/2017|
+| 10.001.070    | Administrador de la red: Plugin:  Instalación y activación para la red de Ultimate Memeber - Private Messages 1.1.0.|Hugo Miller|12/1/2017|
 | 10.001.069    | Administrador de la red: Plugin:  Instalación y activación para la red de Ultimate Memeber - Verified User 1.0.8.|Hugo Miller|12/1/2017|
 | 10.001.068   | Administrador de la red: Plugin:  Instalación y activación para la red de Ultimate Memeber - Job Manager 1.0.0.|Hugo Miller|12/1/2017|
 | 10.001.067    | Administrador de la red: Plugin:  Instalación y activación para la red de Ultimate Memeber - WooCommerce 1.0.10.|Hugo Miller|12/1/2017|
