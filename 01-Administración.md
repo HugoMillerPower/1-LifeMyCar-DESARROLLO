@@ -13,7 +13,7 @@ _Relativo al proceso de implementación del servicio de Administración de la re
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
 | 10.001.XXX    | ∞ |Hugo Miller|12/1/2017|
-LifeMyCar: Plugin: Admin Menu Editor Pro 2.4. Reorganización de menú para recolocar "WooSMS" junto a WooCommerce y con su perfil de color por analogía de funciones. Se genera un nuevo archivo de Settings: https://drive.google.com/open?id=0BwEphhWTjqlSTzY4Q1dnQnhuUzQ |Hugo Miller|12/1/2017|
+| 10.001.080    |LifeMyCar: Plugin: Admin Menu Editor Pro 2.4. Reorganización de menú para recolocar "WooSMS" junto a WooCommerce y con su perfil de color por analogía de funciones. Se genera un nuevo archivo de Settings: https://drive.google.com/open?id=0BwEphhWTjqlSTzY4Q1dnQnhuUzQ |Hugo Miller|12/1/2017|
 | 10.001.079    | Administrador de la red: Plugin: Instalación y activación para la red de WooSMS 1.11|Hugo Miller|12/1/2017|
 | 10.001.078    | Administrador de la red: Plugin: Instalación y activación para la red de WooThemes Updater 1.0.0.|Hugo Miller|12/1/2017|
 | 10.001.077    | LifeMyCar: Plugin: Admin Menu Editor Pro 2.4. Reorganización de menú para recolocar "Reservas (Bookings)" junto a WooCommerce y con su perfil de color por analogía de funciones. Se genera un nuevo archivo de Settings: https://drive.google.com/open?id=0BwEphhWTjqlSZlptdHJpeDFvYXc  |Hugo Miller|12/1/2017|
