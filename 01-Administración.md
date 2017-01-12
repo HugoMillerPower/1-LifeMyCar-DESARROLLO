@@ -13,6 +13,7 @@ _Relativo al proceso de implementación del servicio de Administración de la re
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
 | 10.001.XXX    | ∞ |Hugo Miller|12/1/2017|
+| 10.001.075    | Administrador de la red: Plugin: Instalación y activación para la red de WooCommerce Bookings 1.9.13.|Hugo Miller|12/1/2017|
 | 10.001.074    | Administrador de la red: Plugin: Instalación y activación para la red de FacetWP 2.6.5. Queda alojado en el menú "Ajustes".|Hugo Miller|12/1/2017|
 | 10.001.073    |LifeMycar: Plugin: Ultimate Member 1.3.78; Configuración en función de las capturas de pantalla de DRIVE https://drive.google.com/open?id=0BwEphhWTjqlSYk5KSkplWXVrLU0 y exportación de Settings a la URL https://www.lifemycar.com/wp-admin/admin-ajax.php?action=redux_download_options-um_options&secret=aebd4e776a7876e3925a4e4d17fcb823 |Hugo Miller|12/1/2017|:
 | 10.001.072    | Administrador de la red: Plugin: Instalación y activación para la red de Ultimate Member - Profile Completeness 1.2.0.|Hugo Miller|12/1/2017|
