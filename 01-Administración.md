@@ -13,7 +13,7 @@ _Relativo al proceso de implementación del servicio de Administración de la re
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
 | 10.001.XXX    | ∞ |Hugo Miller|12/1/2017|
-| 10.001.072    |LifeMycar: Plugin: Ultimate Member 1.3.78; Configuración en función de las capturas de pantalla de DRIVE https://drive.google.com/open?id=0BwEphhWTjqlSYk5KSkplWXVrLU0 y exportación de Settings a la URL https://www.lifemycar.com/wp-admin/admin-ajax.php?action=redux_download_options-um_options&secret=aebd4e776a7876e3925a4e4d17fcb823 |Hugo Miller|12/1/2017|:
+| 10.001.073    |LifeMycar: Plugin: Ultimate Member 1.3.78; Configuración en función de las capturas de pantalla de DRIVE https://drive.google.com/open?id=0BwEphhWTjqlSYk5KSkplWXVrLU0 y exportación de Settings a la URL https://www.lifemycar.com/wp-admin/admin-ajax.php?action=redux_download_options-um_options&secret=aebd4e776a7876e3925a4e4d17fcb823 |Hugo Miller|12/1/2017|:
 | 10.001.072    | Administrador de la red: Plugin: Instalación y activación para la red de Ultimate Member - Profile Completeness 1.2.0.|Hugo Miller|12/1/2017|
 | 10.001.071    | Administrador de la red: Plugin: Instalación y activación para la red de Ultimate Member - Reviews 1.1.6.|Hugo Miller|12/1/2017|
 | 10.001.070    | Administrador de la red: Plugin: Instalación y activación para la red de Ultimate Member - Private Messages 1.1.0.|Hugo Miller|12/1/2017|
