@@ -13,6 +13,8 @@ _Relativo al proceso de implementación del servicio de Administración de la re
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
 | 10.001.XXX    | ∞ |Hugo Miller|12/1/2017|
+| 10.001.086    | Administrador de la red: Plugin: Instalación y activación para la red de WPML STRING TRANSLATION 2.5.1.|Hugo Miller|12/1/2017|
+| 10.001.085    | Administrador de la red: Plugin: Instalación y activación para la red de WPML V3.6.2.|Hugo Miller|12/1/2017|
 | 10.001.084    | Administrador de la red: Plugin: Instalación y activación para la red de WooCommerce PDF Invoices & Packing Slips 1.5.38.|Hugo Miller|12/1/2017|
 | 10.001.083    |LifeMyCar: Plugin: Admin Menu Editor Pro 2.4. Reorganización de menú para recolocar "YOAST SEO" junto a Google Analytics y con su perfil de color por analogía de funciones. Se genera un nuevo archivo de Settings: https://drive.google.com/open?id=0BwEphhWTjqlSdVNuZll1em1fbjg |Hugo Miller|12/1/2017|
 | 10.001.082    | Administrador de la red: Plugin: YOAST SEO 4.0.2.|Hugo Miller|12/1/2017|
