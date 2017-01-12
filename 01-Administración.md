@@ -13,6 +13,7 @@ _Relativo al proceso de implementación del servicio de Administración de la re
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
 | 10.001.XXX    | ∞ |Hugo Miller|12/1/2017|
+| 10.001.072    |LifeMycar: Plugin:  Configuración de Ultimate Member 1.3.78. en función de las capturs de pantalla de DRIVE https://drive.google.com/open?id=0BwEphhWTjqlSYk5KSkplWXVrLU0 |Hugo Miller|12/1/2017|
 | 10.001.072    | Administrador de la red: Plugin:  Instalación y activación para la red de Ultimate Memeber - Profile Completenedd 1.2.0|Hugo Miller|12/1/2017|
 | 10.001.071    | Administrador de la red: Plugin:  Instalación y activación para la red de Ultimate Memeber - Reviews 1.1.6|Hugo Miller|12/1/2017|
 | 10.001.070    | Administrador de la red: Plugin:  Instalación y activación para la red de Ultimate Memeber - Private Messages 1.1.0.|Hugo Miller|12/1/2017|
