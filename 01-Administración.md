@@ -13,6 +13,8 @@ _Relativo al proceso de implementación del servicio de Administración de la re
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
 | 10.001.XXX    | ∞ |Hugo Miller|12/1/2017|
+| 10.001.078    | Administrador de la red: Plugin: Instalación y activación para la red de WooThemes 
+Updater 1.0.0.|Hugo Miller|12/1/2017|
 | 10.001.077    | LifeMyCar: Plugin: Admin Menu Editor Pro 2.4. Reorganización de menú para recolocar "Reservas (Bookings)" junto a WooCommerce y con su perfil de color por analogía de funciones. Se genera un nuevo archivo de Settings: https://drive.google.com/open?id=0BwEphhWTjqlSZlptdHJpeDFvYXc  |Hugo Miller|12/1/2017|
 | 10.001.076    | LifeMyCar: Ajustes: Generales:</br></br>- Zona horaria = UTC + 1</br>- Formato de fecha = d/m/Y</br>- Formato de hora = H:i|José Manuel / Hugo Miller|12/1/2017|
 | 10.001.075    | Administrador de la red: Plugin: Instalación y activación para la red de WooCommerce Bookings 1.9.13.|Hugo Miller|12/1/2017|
