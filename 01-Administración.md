@@ -12,7 +12,7 @@ _Relativo al proceso de implementación del servicio de Administración de la re
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
-| 10.001.XXX    | ∞ |Hugo Miller|12/1/2017|
+| 10.001.XXX    | ∞ |Hugo Miller|13/1/2017|
 | 10.001.086    | Administrador de la red: Plugin: Instalación y activación para la red de WPML STRING TRANSLATION 2.5.1.|Hugo Miller|12/1/2017|
 | 10.001.085    | Administrador de la red: Plugin: Instalación y activación para la red de WPML V3.6.2.|Hugo Miller|12/1/2017|
 | 10.001.084    | Administrador de la red: Plugin: Instalación y activación para la red de WooCommerce PDF Invoices & Packing Slips 1.5.38.|Hugo Miller|12/1/2017|
