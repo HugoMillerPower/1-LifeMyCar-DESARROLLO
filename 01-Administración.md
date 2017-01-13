@@ -13,6 +13,7 @@ _Relativo al proceso de implementación del servicio de Administración de la re
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
 | 10.001.XXX    | ∞ |Hugo Miller|13/1/2017|
+| 10.001.088    | LifeMyCar: Plugin: Configuración de imágenes y videos de fondos en la página principal de la Web. Se Reorganizar en la Galería una vez seleccionadas en el orden inverso al que inicialmente las muestra tras selecionarlas desde la etiqueta "Imagens de Fondos" y "Videos".|Hugo Miller.|13/1/2017|
 | 10.001.087    | Administrador de la red: Plugin: Instalación y activación para la red de WooCommerce RedSYS 2.8.4. Descargado directamente de la web de  RedSYS|Hugo Miller.|13/1/2017|
 | 10.001.086    | Administrador de la red: Plugin: Instalación y activación para la red de WPML STRING TRANSLATION 2.5.1.|Hugo Miller|12/1/2017|
 | 10.001.085    | Administrador de la red: Plugin: Instalación y activación para la red de WPML V3.6.2.|Hugo Miller|12/1/2017|
