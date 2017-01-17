@@ -12,11 +12,11 @@ _Relativo al proceso de implementación del servicio de Administración de la re
 
 | Versión |Cambios y/o evoluciones |Autor|Fecha|
 |:------------- |:---------------|:---------------|:---------------|
-| 10.001.XXX    | ∞ |Hugo Miller|13/1/2017|
-| 10.001.088    | LifeMyCar: Plugin: Configuración de imágenes y videos de fondos en la página principal de la Web. Se Reorganizar en la Galería una vez seleccionadas en el orden inverso al que inicialmente las muestra tras selecionarlas desde la etiqueta "Imagens de Fondos" y "Videos".|Hugo Miller.|13/1/2017|
+| 10.001.XXX-    | ∞ |Hugo Miller|13/1/2017|
+| 10.001.088-    | LifeMyCar: Plugin: Configuración de imágenes y videos de fondos en la página principal de la Web. Se Reorganizar en la Galería una vez seleccionadas en el orden inverso al que inicialmente las muestra tras selecionarlas desde la etiqueta "Imagens de Fondos" y "Videos".|Hugo Miller.|13/1/2017|
 | 10.001.087-    | Administrador de la red: Plugin: Instalación y activación para la red de WooCommerce RedSYS 2.8.4. Descargado directamente de la web de  RedSYS|Hugo Miller.|13/1/2017|
-| 10.001.086    | Administrador de la red: Plugin: Instalación y activación para la red de WPML STRING TRANSLATION 2.5.1.|Hugo Miller|12/1/2017|
-| 10.001.085    | Administrador de la red: Plugin: Instalación y activación para la red de WPML V3.6.2.|Hugo Miller|12/1/2017|
+| 10.001.086-    | Administrador de la red: Plugin: Instalación y activación para la red de WPML STRING TRANSLATION 2.5.1.|Hugo Miller|12/1/2017|
+| 10.001.085-    | Administrador de la red: Plugin: Instalación y activación para la red de WPML V3.6.2.|Hugo Miller|12/1/2017|
 | 10.001.084-    | Administrador de la red: Plugin: Instalación y activación para la red de WooCommerce PDF Invoices & Packing Slips 1.5.38.|Hugo Miller|12/1/2017|
 | 10.001.083    |LifeMyCar: Plugin: Admin Menu Editor Pro 2.4. Reorganización de menú para recolocar "YOAST SEO" junto a Google Analytics y con su perfil de color por analogía de funciones. Se genera un nuevo archivo de Settings: https://drive.google.com/open?id=0BwEphhWTjqlSdVNuZll1em1fbjg |Hugo Miller|12/1/2017|
 | 10.001.082-    | Administrador de la red: Plugin: YOAST SEO 4.0.2.|Hugo Miller|12/1/2017|
@@ -24,7 +24,7 @@ _Relativo al proceso de implementación del servicio de Administración de la re
 | 10.001.081-    | Administrador de la red: Plugin: Instalación y activación para la red de Pro Sites 3.5.4.|Hugo Miller|12/1/2017|
 | 10.001.080    |LifeMyCar: Plugin: Admin Menu Editor Pro 2.4. Reorganización de menú para recolocar "WooSMS" junto a WooCommerce y con su perfil de color por analogía de funciones. Se genera un nuevo archivo de Settings: https://drive.google.com/open?id=0BwEphhWTjqlSTzY4Q1dnQnhuUzQ |Hugo Miller|12/1/2017|
 | 10.001.079-    | Administrador de la red: Plugin: Instalación y activación para la red de WooSMS 1.11|Hugo Miller|12/1/2017|
-| 10.001.078    | Administrador de la red: Plugin: Instalación y activación para la red de WooThemes Updater 1.0.0.|Hugo Miller|12/1/2017|
+| 10.001.078-    | Administrador de la red: Plugin: Instalación y activación para la red de WooThemes Updater 1.0.0.|Hugo Miller|12/1/2017|
 | 10.001.077    | LifeMyCar: Plugin: Admin Menu Editor Pro 2.4. Reorganización de menú para recolocar "Reservas (Bookings)" junto a WooCommerce y con su perfil de color por analogía de funciones. Se genera un nuevo archivo de Settings: https://drive.google.com/open?id=0BwEphhWTjqlSZlptdHJpeDFvYXc  |Hugo Miller|12/1/2017|
 | 10.001.076-    | LifeMyCar: Ajustes: Generales:</br></br>- Zona horaria = UTC + 1</br>- Formato de fecha = d/m/Y</br>- Formato de hora = H:i|José Manuel / Hugo Miller|12/1/2017|
 | 10.001.075-    | Administrador de la red: Plugin: Instalación y activación para la red de WooCommerce Bookings 1.9.13.|Hugo Miller|12/1/2017|
