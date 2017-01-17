@@ -26,7 +26,7 @@ _Relativo al proceso de implementación del servicio de Administración de la re
 | 10.001.079-    | Administrador de la red: Plugin: Instalación y activación para la red de WooSMS 1.11|Hugo Miller|12/1/2017|
 | 10.001.078    | Administrador de la red: Plugin: Instalación y activación para la red de WooThemes Updater 1.0.0.|Hugo Miller|12/1/2017|
 | 10.001.077    | LifeMyCar: Plugin: Admin Menu Editor Pro 2.4. Reorganización de menú para recolocar "Reservas (Bookings)" junto a WooCommerce y con su perfil de color por analogía de funciones. Se genera un nuevo archivo de Settings: https://drive.google.com/open?id=0BwEphhWTjqlSZlptdHJpeDFvYXc  |Hugo Miller|12/1/2017|
-| 10.001.076    | LifeMyCar: Ajustes: Generales:</br></br>- Zona horaria = UTC + 1</br>- Formato de fecha = d/m/Y</br>- Formato de hora = H:i|José Manuel / Hugo Miller|12/1/2017|
+| 10.001.076-    | LifeMyCar: Ajustes: Generales:</br></br>- Zona horaria = UTC + 1</br>- Formato de fecha = d/m/Y</br>- Formato de hora = H:i|José Manuel / Hugo Miller|12/1/2017|
 | 10.001.075-    | Administrador de la red: Plugin: Instalación y activación para la red de WooCommerce Bookings 1.9.13.|Hugo Miller|12/1/2017|
 | 10.001.074-    | Administrador de la red: Plugin: Instalación y activación para la red de FacetWP 2.6.5. Queda alojado en el menú "Ajustes".|Hugo Miller|12/1/2017|
 | 10.001.073    |LifeMycar: Plugin: Ultimate Member 1.3.78: Configuración en función de las capturas de pantalla de DRIVE https://drive.google.com/open?id=0BwEphhWTjqlSYk5KSkplWXVrLU0 y exportación de Settings a la URL https://www.lifemycar.com/wp-admin/admin-ajax.php?action=redux_download_options-um_options&secret=aebd4e776a7876e3925a4e4d17fcb823 |Hugo Miller|12/1/2017|:
